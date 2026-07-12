@@ -1,8 +1,29 @@
 {
-  "generated": "2026-07-12T12:00:02",
+  "generated": "2026-07-12T16:00:02",
   "vault": "Med",
-  "count": 1582,
+  "count": 1584,
   "notes": [
+    {
+      "title": "NEJM_MGH_202619",
+      "path": "ModMaterial/NEJM/NEJM_MGH_202619.md",
+      "folder": "ModMaterial",
+      "modified": "2026-07-12T13:51:05",
+      "tags": []
+    },
+    {
+      "title": "NEJM",
+      "path": "Template/NEJM.md",
+      "folder": "Template",
+      "modified": "2026-07-12T13:44:59",
+      "tags": []
+    },
+    {
+      "title": "Screenshots",
+      "path": "Screenshots.md",
+      "folder": "",
+      "modified": "2026-07-12T13:30:15",
+      "tags": []
+    },
     {
       "title": "Case31_NSIP_navi",
       "path": "ModMaterial/Navigating/CTchest/Case31_NSIP_navi.md",
@@ -15,13 +36,6 @@
     {
       "title": "OCR_results",
       "path": "OCR_results.md",
-      "folder": "",
-      "modified": "2026-07-05T19:14:29",
-      "tags": []
-    },
-    {
-      "title": "Screenshots",
-      "path": "Screenshots.md",
       "folder": "",
       "modified": "2026-07-05T19:14:29",
       "tags": []
