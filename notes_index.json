@@ -1,8 +1,29 @@
 {
-  "generated": "2026-07-25T04:40:50",
+  "generated": "2026-07-25T12:00:02",
   "vault": "Med",
-  "count": 1631,
+  "count": 1634,
   "notes": [
+    {
+      "title": "daily_template",
+      "path": "4.Daily/daily_template.md",
+      "folder": "4.Daily",
+      "modified": "2026-07-25T11:55:10",
+      "tags": []
+    },
+    {
+      "title": "NEJM_MGH_202621",
+      "path": "ModMaterial/NEJM/NEJM_MGH_202621.md",
+      "folder": "ModMaterial",
+      "modified": "2026-07-25T11:21:42",
+      "tags": []
+    },
+    {
+      "title": "NEJM_MGH_202619 1 1",
+      "path": "ModMaterial/NEJM/NEJM_MGH_202619 1 1.md",
+      "folder": "ModMaterial",
+      "modified": "2026-07-25T11:08:07",
+      "tags": []
+    },
     {
       "title": "Head Interpret Order",
       "path": "0.Interpret Order/Head Interpret Order.md",
