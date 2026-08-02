@@ -1,8 +1,29 @@
 {
-  "generated": "2026-08-02T13:12:01",
+  "generated": "2026-08-02T14:09:51",
   "vault": "Med",
   "count": 1646,
   "notes": [
+    {
+      "title": "Daily_List",
+      "path": "4.Daily/Daily_List.md",
+      "folder": "4.Daily",
+      "modified": "2026-08-02T13:59:35",
+      "tags": []
+    },
+    {
+      "title": "2026-07-04",
+      "path": "4.Daily/Daily_DB/2026-07-04.md",
+      "folder": "4.Daily",
+      "modified": "2026-08-02T13:27:08",
+      "tags": []
+    },
+    {
+      "title": "細気管支炎",
+      "path": "2.Disease/Disease_info/細気管支炎.md",
+      "folder": "2.Disease",
+      "modified": "2026-08-02T13:19:59",
+      "tags": []
+    },
     {
       "title": "胸部勘ドコロ",
       "path": "ModMaterial/胸部勘ドコロ/胸部勘ドコロ.md",
@@ -15,13 +36,6 @@
       "path": "ModInfo/胸部勘ドコロ.pdf 8.md",
       "folder": "ModInfo",
       "modified": "2026-08-02T13:10:03",
-      "tags": []
-    },
-    {
-      "title": "2026-07-04",
-      "path": "4.Daily/2026-07-04.md",
-      "folder": "4.Daily",
-      "modified": "2026-08-02T13:09:42",
       "tags": []
     },
     {
@@ -227,13 +241,6 @@
       "path": "ModMaterial/JDI/JDI 202301ビギナーのための頭部画像診断.md",
       "folder": "ModMaterial",
       "modified": "2026-07-29T10:28:00",
-      "tags": []
-    },
-    {
-      "title": "Daily_List",
-      "path": "4.Daily/Daily_List.md",
-      "folder": "4.Daily",
-      "modified": "2026-07-25T12:57:37",
       "tags": []
     },
     {
@@ -1057,7 +1064,7 @@
     },
     {
       "title": "2026-06-21",
-      "path": "ChatGPT/2026-06-21.md",
+      "path": "ChatGPT/Archive/2026-06-21.md",
       "folder": "ChatGPT",
       "modified": "2026-06-27T16:12:22",
       "tags": []
@@ -3017,13 +3024,6 @@
       "path": "ModInfo/結核.md",
       "folder": "ModInfo",
       "modified": "2026-02-09T13:04:56",
-      "tags": []
-    },
-    {
-      "title": "細気管支炎",
-      "path": "ModInfo/細気管支炎.md",
-      "folder": "ModInfo",
-      "modified": "2026-02-09T13:04:31",
       "tags": []
     },
     {
@@ -11586,6 +11586,128 @@
       "folder": "ModInfo",
       "modified": "2024-08-07T22:32:27",
       "tags": []
+    }
+  ],
+  "lessons_cautions": [
+    {
+      "date": "2026-07-04",
+      "type": "Lessons",
+      "text": "肝内石灰化は陳旧性肉芽腫が再頻(結核・真菌感染)",
+      "path": "4.Daily/Daily_DB/2026-07-04.md"
+    },
+    {
+      "date": "2026-07-04",
+      "type": "Lessons",
+      "text": "腸坐恥骨=骨盤骨、腰椎と仙椎＝腰仙骨",
+      "path": "4.Daily/Daily_DB/2026-07-04.md"
+    },
+    {
+      "date": "2026-07-04",
+      "type": "Lessons",
+      "text": "卵巣癌の転移はまずは腹膜播種、あとは肝転移とか",
+      "path": "4.Daily/Daily_DB/2026-07-04.md"
+    },
+    {
+      "date": "2026-07-04",
+      "type": "Lessons",
+      "text": "Brunner腺過形成",
+      "path": "4.Daily/Daily_DB/2026-07-04.md"
+    },
+    {
+      "date": "2026-07-04",
+      "type": "Lessons",
+      "text": "中咽頭は軟口蓋〜喉頭蓋谷・舌骨上縁",
+      "path": "4.Daily/Daily_DB/2026-07-04.md"
+    },
+    {
+      "date": "2026-07-04",
+      "type": "Lessons",
+      "text": "上内深頸リンパ節の境目は舌骨",
+      "path": "4.Daily/Daily_DB/2026-07-04.md"
+    },
+    {
+      "date": "2026-07-04",
+      "type": "Lessons",
+      "text": "骨髄再転換は生理的変化と骨髄浸潤を鑑別",
+      "path": "4.Daily/Daily_DB/2026-07-04.md"
+    },
+    {
+      "date": "2026-07-04",
+      "type": "Lessons",
+      "text": "びまん性すりガラス影の鑑別はすりガラスのみ、すりガラス＋コンソリ、すりガラス＋網状影に分ける",
+      "path": "4.Daily/Daily_DB/2026-07-04.md"
+    },
+    {
+      "date": "2026-07-04",
+      "type": "Lessons",
+      "text": "アスペルギルス関連は、アスペルギローマ、侵襲性アスペルギルス、ABPAに分けられる",
+      "path": "4.Daily/Daily_DB/2026-07-04.md"
+    },
+    {
+      "date": "2026-07-04",
+      "type": "Lessons",
+      "text": "ABPA＋DPBがいた",
+      "path": "4.Daily/Daily_DB/2026-07-04.md"
+    },
+    {
+      "date": "2026-07-04",
+      "type": "Lessons",
+      "text": "DBP=びまん性汎細気管支炎、気管支拡張症とはまたちがう、マイクロプラズマ肺炎とも違う",
+      "path": "4.Daily/Daily_DB/2026-07-04.md"
+    },
+    {
+      "date": "2026-07-04",
+      "type": "Lessons",
+      "text": "緑膿菌は細菌性肺炎",
+      "path": "4.Daily/Daily_DB/2026-07-04.md"
+    },
+    {
+      "date": "2026-07-04",
+      "type": "Cautions",
+      "text": "SMAに瘤あり",
+      "path": "4.Daily/Daily_DB/2026-07-04.md"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "Lessons",
+      "text": "器質化肺炎または肺炎の器質化",
+      "path": "4.Daily/Daily_DB/2026-07-03.md"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "Cautions",
+      "text": "健康診断は脂肪のファイル添付する",
+      "path": "4.Daily/Daily_DB/2026-07-03.md"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "Cautions",
+      "text": "骨島疑い書く",
+      "path": "4.Daily/Daily_DB/2026-07-03.md"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "Cautions",
+      "text": "鼠径不整形見逃し",
+      "path": "4.Daily/Daily_DB/2026-07-03.md"
+    },
+    {
+      "date": "2026-07-02",
+      "type": "Cautions",
+      "text": "IPMNの計測",
+      "path": "4.Daily/Daily_DB/2026-07-02.md"
+    },
+    {
+      "date": "2026-07-02",
+      "type": "Lessons",
+      "text": "胆管過誤腫",
+      "path": "4.Daily/Daily_DB/2026-07-02.md"
+    },
+    {
+      "date": "2026-07-02",
+      "type": "Lessons",
+      "text": "Opposed-phaseとIn-Phase",
+      "path": "4.Daily/Daily_DB/2026-07-02.md"
     }
   ]
 }
