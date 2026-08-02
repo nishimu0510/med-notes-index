@@ -1,8 +1,15 @@
 {
-  "generated": "2026-08-02T14:09:51",
+  "generated": "2026-08-02T20:59:24",
   "vault": "Med",
-  "count": 1646,
+  "count": 1647,
   "notes": [
+    {
+      "title": "2026-08-02",
+      "path": "4.Daily/Daily_DB/2026-08-02.md",
+      "folder": "4.Daily",
+      "modified": "2026-08-02T18:05:07",
+      "tags": []
+    },
     {
       "title": "Daily_List",
       "path": "4.Daily/Daily_List.md",
@@ -11589,6 +11596,18 @@
     }
   ],
   "lessons_cautions": [
+    {
+      "date": "2026-08-02",
+      "type": "Lessons",
+      "text": "",
+      "path": "4.Daily/Daily_DB/2026-08-02.md"
+    },
+    {
+      "date": "2026-08-02",
+      "type": "Cautions",
+      "text": "",
+      "path": "4.Daily/Daily_DB/2026-08-02.md"
+    },
     {
       "date": "2026-07-04",
       "type": "Lessons",
