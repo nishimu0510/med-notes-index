@@ -1,8 +1,15 @@
 {
-  "generated": "2026-08-26T01:36:04",
+  "generated": "2026-08-26T20:00:02",
   "vault": "Med",
-  "count": 1697,
+  "count": 1698,
   "notes": [
+    {
+      "title": "template_reportbank",
+      "path": "Reportbank/0.template/template_reportbank.md",
+      "folder": "Reportbank",
+      "modified": "2026-08-26T18:59:35",
+      "tags": []
+    },
     {
       "title": "下肢静脈のまとめ",
       "path": "ModInfo/下肢静脈のまとめ.md",
