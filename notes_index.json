@@ -1,8 +1,29 @@
 {
-  "generated": "2026-09-08T00:00:03",
+  "generated": "2026-09-08T04:00:02",
   "vault": "Med",
-  "count": 1729,
+  "count": 1731,
   "notes": [
+    {
+      "title": "2026-09-08_骨盤骨折における血管解剖",
+      "path": "💎 Pearls/2026-09-08_骨盤骨折における血管解剖.md",
+      "folder": "💎 Pearls",
+      "modified": "2026-09-08T01:19:45",
+      "tags": []
+    },
+    {
+      "title": "骨盤骨折に対する血管解剖",
+      "path": "1.Anatomy/Ω_Anatomy_info/骨盤骨折に対する血管解剖.md",
+      "folder": "1.Anatomy",
+      "modified": "2026-09-08T01:14:00",
+      "tags": []
+    },
+    {
+      "title": "5.骨盤の解剖_MoC",
+      "path": "1.Anatomy/MoC_notes/5.骨盤の解剖_MoC.md",
+      "folder": "1.Anatomy",
+      "modified": "2026-09-08T00:32:53",
+      "tags": []
+    },
     {
       "title": "脂肪肝_temp",
       "path": "ModInfo/脂肪肝_temp.md",
@@ -54,7 +75,7 @@
     },
     {
       "title": "胸膜、葉間裂",
-      "path": "1.Anatomy/Anatomy_info/胸膜、葉間裂.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/胸膜、葉間裂.md",
       "folder": "1.Anatomy",
       "modified": "2026-09-06T18:53:49",
       "tags": []
@@ -96,7 +117,7 @@
     },
     {
       "title": "2.頸部の解剖_MoC",
-      "path": "1.Anatomy/1.Speciality_MoC/MoC/2.頸部の解剖_MoC.md",
+      "path": "1.Anatomy/MoC_notes/2.頸部の解剖_MoC.md",
       "folder": "1.Anatomy",
       "modified": "2026-09-06T18:07:39",
       "tags": []
@@ -145,7 +166,7 @@
     },
     {
       "title": "4.腹部の解剖_MoC",
-      "path": "1.Anatomy/1.Speciality_MoC/MoC/4.腹部の解剖_MoC.md",
+      "path": "1.Anatomy/MoC_notes/4.腹部の解剖_MoC.md",
       "folder": "1.Anatomy",
       "modified": "2026-09-06T13:29:56",
       "tags": []
@@ -180,15 +201,15 @@
     },
     {
       "title": "Angio色々",
-      "path": "ModMoC/Technics/Angio/Angio色々.md",
-      "folder": "ModMoC",
+      "path": "Technics/Angio/Angio色々.md",
+      "folder": "Technics",
       "modified": "2026-09-04T19:49:19",
       "tags": []
     },
     {
       "title": "Angio事項",
-      "path": "ModMoC/Technics/Angio/Angio事項.md",
-      "folder": "ModMoC",
+      "path": "Technics/Angio/Angio事項.md",
+      "folder": "Technics",
       "modified": "2026-09-04T19:42:26",
       "tags": []
     },
@@ -235,16 +256,16 @@
       "tags": []
     },
     {
-      "title": "Voice 関係",
-      "path": "Voice_input/Voice 関係.md",
+      "title": "Voice 関係整理",
+      "path": "Voice_input/Voice 関係整理.md",
       "folder": "Voice_input",
       "modified": "2026-09-01T01:23:41",
       "tags": []
     },
     {
-      "title": "VoiceInk_2026-06-15_23-39",
-      "path": "Voice_input/Contents/VoiceInk_2026-06-15_23-39.md",
-      "folder": "Voice_input",
+      "title": "2026-06-15_FLAIR画像における血管内高信号（IAS）",
+      "path": "💎 Pearls/2026-06-15_FLAIR画像における血管内高信号（IAS）.md",
+      "folder": "💎 Pearls",
       "modified": "2026-09-01T01:14:06",
       "tags": []
     },
@@ -274,13 +295,6 @@
       "path": "ModInfo/上咽頭癌で重要な解剖_sdi.md",
       "folder": "ModInfo",
       "modified": "2026-08-30T01:26:08",
-      "tags": []
-    },
-    {
-      "title": "5.骨盤の解剖_MoC",
-      "path": "1.Anatomy/1.Speciality_MoC/MoC/5.骨盤の解剖_MoC.md",
-      "folder": "1.Anatomy",
-      "modified": "2026-08-30T01:17:16",
       "tags": []
     },
     {
@@ -418,14 +432,14 @@
     },
     {
       "title": "寛骨",
-      "path": "1.Anatomy/Anatomy_info/寛骨.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/寛骨.md",
       "folder": "1.Anatomy",
       "modified": "2026-08-23T18:57:05",
       "tags": []
     },
     {
       "title": "8.骨軟の解剖_MoC",
-      "path": "1.Anatomy/1.Speciality_MoC/MoC/8.骨軟の解剖_MoC.md",
+      "path": "1.Anatomy/MoC_notes/8.骨軟の解剖_MoC.md",
       "folder": "1.Anatomy",
       "modified": "2026-08-23T18:56:30",
       "tags": []
@@ -533,14 +547,14 @@
     },
     {
       "title": "脚間槽",
-      "path": "1.Anatomy/Anatomy_info/脚間槽.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/脚間槽.md",
       "folder": "1.Anatomy",
       "modified": "2026-08-16T20:14:38",
       "tags": []
     },
     {
       "title": "アブミ骨・ツチ骨・キヌタ骨",
-      "path": "1.Anatomy/Anatomy_info/アブミ骨・ツチ骨・キヌタ骨.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/アブミ骨・ツチ骨・キヌタ骨.md",
       "folder": "1.Anatomy",
       "modified": "2026-08-16T20:13:21",
       "tags": []
@@ -807,21 +821,21 @@
     },
     {
       "title": "脳血管支配領域_schema",
-      "path": "1.Anatomy/Anatomy_info/脳血管支配領域_schema.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/脳血管支配領域_schema.md",
       "folder": "1.Anatomy",
       "modified": "2026-08-11T20:25:36",
       "tags": []
     },
     {
       "title": "1.頭部の解剖_MoC",
-      "path": "1.Anatomy/1.Speciality_MoC/MoC/1.頭部の解剖_MoC.md",
+      "path": "1.Anatomy/MoC_notes/1.頭部の解剖_MoC.md",
       "folder": "1.Anatomy",
       "modified": "2026-08-11T18:02:04",
       "tags": []
     },
     {
       "title": "大脳辺縁系",
-      "path": "1.Anatomy/Anatomy_info/大脳辺縁系.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/大脳辺縁系.md",
       "folder": "1.Anatomy",
       "modified": "2026-08-11T18:01:33",
       "tags": []
@@ -935,7 +949,7 @@
     },
     {
       "title": "腎門部リンパ節",
-      "path": "1.Anatomy/Anatomy_info/腎門部リンパ節.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/腎門部リンパ節.md",
       "folder": "1.Anatomy",
       "modified": "2026-08-09T14:55:51",
       "tags": []
@@ -1195,14 +1209,14 @@
     },
     {
       "title": "Slices Link",
-      "path": "1.Anatomy/0.bank（雑誌とかの体系的な）/Slices Link.md",
+      "path": "1.Anatomy/Slices Link.md",
       "folder": "1.Anatomy",
       "modified": "2026-07-29T12:23:25",
       "tags": []
     },
     {
       "title": "骨癒合部_sdi",
-      "path": "1.Anatomy/Anatomy_info/骨癒合部_sdi.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/骨癒合部_sdi.md",
       "folder": "1.Anatomy",
       "modified": "2026-07-29T11:40:06",
       "tags": []
@@ -1251,28 +1265,28 @@
     },
     {
       "title": "腓下骨_sdi",
-      "path": "1.Anatomy/Anatomy_info/腓下骨_sdi.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/腓下骨_sdi.md",
       "folder": "1.Anatomy",
       "modified": "2026-07-22T19:26:06",
       "tags": []
     },
     {
       "title": "脛下骨_sdi",
-      "path": "1.Anatomy/Anatomy_info/脛下骨_sdi.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/脛下骨_sdi.md",
       "folder": "1.Anatomy",
       "modified": "2026-07-22T19:25:09",
       "tags": []
     },
     {
       "title": "外脛骨_sdi",
-      "path": "1.Anatomy/Anatomy_info/外脛骨_sdi.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/外脛骨_sdi.md",
       "folder": "1.Anatomy",
       "modified": "2026-07-22T19:23:38",
       "tags": []
     },
     {
       "title": "副骨_sdi",
-      "path": "1.Anatomy/Anatomy_info/副骨_sdi.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/副骨_sdi.md",
       "folder": "1.Anatomy",
       "modified": "2026-07-22T19:20:00",
       "tags": []
@@ -1349,7 +1363,7 @@
     },
     {
       "title": "メッケル腔 Meckel",
-      "path": "1.Anatomy/Anatomy_info/メッケル腔 Meckel.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/メッケル腔 Meckel.md",
       "folder": "1.Anatomy",
       "modified": "2026-07-22T13:26:23",
       "tags": []
@@ -1391,7 +1405,7 @@
     },
     {
       "title": "大脳白質",
-      "path": "1.Anatomy/Anatomy_info/大脳白質.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/大脳白質.md",
       "folder": "1.Anatomy",
       "modified": "2026-07-20T19:06:44",
       "tags": []
@@ -1538,28 +1552,28 @@
     },
     {
       "title": "神経膠細胞",
-      "path": "1.Anatomy/Anatomy_info/神経膠細胞.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/神経膠細胞.md",
       "folder": "1.Anatomy",
       "modified": "2026-07-20T12:59:03",
       "tags": []
     },
     {
       "title": "ガイド下生検",
-      "path": "ModMoC/Technics/CT biopsy/ガイド下生検.md",
-      "folder": "ModMoC",
+      "path": "Technics/CT biopsy/ガイド下生検.md",
+      "folder": "Technics",
       "modified": "2026-07-20T11:59:17",
       "tags": []
     },
     {
       "title": "蝶形骨_sdi",
-      "path": "1.Anatomy/Anatomy_info/蝶形骨_sdi.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/蝶形骨_sdi.md",
       "folder": "1.Anatomy",
       "modified": "2026-07-19T18:52:13",
       "tags": []
     },
     {
       "title": "翼口蓋窩_sdi",
-      "path": "1.Anatomy/Anatomy_info/翼口蓋窩_sdi.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/翼口蓋窩_sdi.md",
       "folder": "1.Anatomy",
       "modified": "2026-07-19T18:50:35",
       "tags": []
@@ -1594,7 +1608,7 @@
     },
     {
       "title": "松果体",
-      "path": "1.Anatomy/Anatomy_info/松果体.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/松果体.md",
       "folder": "1.Anatomy",
       "modified": "2026-07-19T18:29:21",
       "tags": []
@@ -1622,7 +1636,7 @@
     },
     {
       "title": "橋前槽",
-      "path": "1.Anatomy/Anatomy_info/橋前槽.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/橋前槽.md",
       "folder": "1.Anatomy",
       "modified": "2026-07-19T17:36:24",
       "tags": []
@@ -1888,15 +1902,15 @@
     },
     {
       "title": "Technic List",
-      "path": "ModMoC/Technics/Technic List.md",
-      "folder": "ModMoC",
+      "path": "Technics/Technic List.md",
+      "folder": "Technics",
       "modified": "2026-06-27T16:21:13",
       "tags": []
     },
     {
       "title": "ガイド下ドレナージ",
-      "path": "ModMoC/Technics/CT biopsy/ガイド下ドレナージ.md",
-      "folder": "ModMoC",
+      "path": "Technics/CT biopsy/ガイド下ドレナージ.md",
+      "folder": "Technics",
       "modified": "2026-06-27T16:20:42",
       "tags": []
     },
@@ -1909,7 +1923,7 @@
     },
     {
       "title": "甲状軟骨、輪状軟骨",
-      "path": "1.Anatomy/Anatomy_info/甲状軟骨、輪状軟骨.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/甲状軟骨、輪状軟骨.md",
       "folder": "1.Anatomy",
       "modified": "2026-06-27T16:10:37",
       "tags": []
@@ -1923,7 +1937,7 @@
     },
     {
       "title": "頸部リンパ節_image",
-      "path": "1.Anatomy/Anatomy_info/頸部リンパ節_image.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/頸部リンパ節_image.md",
       "folder": "1.Anatomy",
       "modified": "2026-06-27T15:41:01",
       "tags": []
@@ -1937,7 +1951,7 @@
     },
     {
       "title": "披裂軟骨、披裂喉頭蓋ひだ、披裂部",
-      "path": "1.Anatomy/Anatomy_info/披裂軟骨、披裂喉頭蓋ひだ、披裂部.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/披裂軟骨、披裂喉頭蓋ひだ、披裂部.md",
       "folder": "1.Anatomy",
       "modified": "2026-06-27T15:15:51",
       "tags": []
@@ -1993,7 +2007,7 @@
     },
     {
       "title": "9.その他の解剖（血液、筋肉、神経）_MoC",
-      "path": "1.Anatomy/1.Speciality_MoC/MoC/9.その他の解剖（血液、筋肉、神経）_MoC.md",
+      "path": "1.Anatomy/MoC_notes/9.その他の解剖（血液、筋肉、神経）_MoC.md",
       "folder": "1.Anatomy",
       "modified": "2026-06-27T14:46:19",
       "tags": []
@@ -2035,7 +2049,7 @@
     },
     {
       "title": "主膵管と副膵管の位置",
-      "path": "1.Anatomy/Anatomy_info/主膵管と副膵管の位置.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/主膵管と副膵管の位置.md",
       "folder": "1.Anatomy",
       "modified": "2026-06-27T12:36:49",
       "tags": []
@@ -2065,7 +2079,7 @@
     },
     {
       "title": "肺静脈と肺動脈",
-      "path": "1.Anatomy/Anatomy_info/肺静脈と肺動脈.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/肺静脈と肺動脈.md",
       "folder": "1.Anatomy",
       "modified": "2026-06-24T11:29:56",
       "tags": []
@@ -2383,7 +2397,7 @@
     },
     {
       "title": "鼻腔・鼻道",
-      "path": "1.Anatomy/Anatomy_info/鼻腔・鼻道.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/鼻腔・鼻道.md",
       "folder": "1.Anatomy",
       "modified": "2026-06-03T16:56:26",
       "tags": []
@@ -2499,14 +2513,14 @@
     },
     {
       "title": "レントゲン読影解剖_sdi",
-      "path": "1.Anatomy/Anatomy_info/レントゲン読影解剖_sdi.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/レントゲン読影解剖_sdi.md",
       "folder": "1.Anatomy",
       "modified": "2026-05-23T15:31:37",
       "tags": []
     },
     {
       "title": "レントゲン読影境界線_sdi",
-      "path": "1.Anatomy/Anatomy_info/レントゲン読影境界線_sdi.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/レントゲン読影境界線_sdi.md",
       "folder": "1.Anatomy",
       "modified": "2026-05-23T15:31:13",
       "tags": []
@@ -2534,14 +2548,14 @@
     },
     {
       "title": "Xp解剖（正面像）",
-      "path": "1.Anatomy/Anatomy_info/Xp解剖（正面像）.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/Xp解剖（正面像）.md",
       "folder": "1.Anatomy",
       "modified": "2026-05-17T20:40:54",
       "tags": []
     },
     {
       "title": "縦隔線",
-      "path": "1.Anatomy/Anatomy_info/縦隔線.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/縦隔線.md",
       "folder": "1.Anatomy",
       "modified": "2026-05-17T20:19:07",
       "tags": []
@@ -2555,35 +2569,35 @@
     },
     {
       "title": "3.胸部の解剖_MoC",
-      "path": "1.Anatomy/1.Speciality_MoC/MoC/3.胸部の解剖_MoC.md",
+      "path": "1.Anatomy/MoC_notes/3.胸部の解剖_MoC.md",
       "folder": "1.Anatomy",
       "modified": "2026-05-17T19:37:30",
       "tags": []
     },
     {
       "title": "肺区域_schema",
-      "path": "1.Anatomy/Anatomy_info/肺区域_schema.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/肺区域_schema.md",
       "folder": "1.Anatomy",
       "modified": "2026-05-17T19:37:00",
       "tags": []
     },
     {
       "title": "肺区域_image",
-      "path": "1.Anatomy/Anatomy_info/肺区域_image.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/肺区域_image.md",
       "folder": "1.Anatomy",
       "modified": "2026-05-17T19:36:33",
       "tags": []
     },
     {
       "title": "シルエットサイン",
-      "path": "1.Anatomy/Anatomy_info/シルエットサイン.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/シルエットサイン.md",
       "folder": "1.Anatomy",
       "modified": "2026-05-17T18:14:26",
       "tags": []
     },
     {
       "title": "Xp解剖（側面像）",
-      "path": "1.Anatomy/Anatomy_info/Xp解剖（側面像）.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/Xp解剖（側面像）.md",
       "folder": "1.Anatomy",
       "modified": "2026-05-17T17:52:09",
       "tags": []
@@ -2639,7 +2653,7 @@
     },
     {
       "title": "子宮円索",
-      "path": "1.Anatomy/Anatomy_info/子宮円索.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/子宮円索.md",
       "folder": "1.Anatomy",
       "modified": "2026-05-16T17:56:52",
       "tags": []
@@ -2723,14 +2737,14 @@
     },
     {
       "title": "脳葉_image",
-      "path": "1.Anatomy/Anatomy_info/脳葉_image.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/脳葉_image.md",
       "folder": "1.Anatomy",
       "modified": "2026-05-07T19:16:54",
       "tags": []
     },
     {
       "title": "肝区域_table",
-      "path": "1.Anatomy/Anatomy_info/肝区域_table.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/肝区域_table.md",
       "folder": "1.Anatomy",
       "modified": "2026-05-06T19:45:10",
       "tags": []
@@ -2744,14 +2758,14 @@
     },
     {
       "title": "肝区域_schema",
-      "path": "1.Anatomy/Anatomy_info/肝区域_schema.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/肝区域_schema.md",
       "folder": "1.Anatomy",
       "modified": "2026-05-06T19:03:12",
       "tags": []
     },
     {
       "title": "肝区域_image",
-      "path": "1.Anatomy/Anatomy_info/肝区域_image.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/肝区域_image.md",
       "folder": "1.Anatomy",
       "modified": "2026-05-06T19:01:17",
       "tags": []
@@ -2877,7 +2891,7 @@
     },
     {
       "title": "気管支亜区域_slice",
-      "path": "1.Anatomy/Anatomy_info/気管支亜区域_slice.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/気管支亜区域_slice.md",
       "folder": "1.Anatomy",
       "modified": "2026-05-05T20:10:28",
       "tags": []
@@ -2891,14 +2905,14 @@
     },
     {
       "title": "内頚動脈（内頸動脈）",
-      "path": "1.Anatomy/Anatomy_info/内頚動脈（内頸動脈）.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/内頚動脈（内頸動脈）.md",
       "folder": "1.Anatomy",
       "modified": "2026-05-05T19:51:06",
       "tags": []
     },
     {
       "title": "脳主幹動脈",
-      "path": "1.Anatomy/Anatomy_info/脳主幹動脈.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/脳主幹動脈.md",
       "folder": "1.Anatomy",
       "modified": "2026-05-05T19:20:22",
       "tags": []
@@ -2919,7 +2933,7 @@
     },
     {
       "title": "髄膜_schema",
-      "path": "1.Anatomy/Anatomy_info/髄膜_schema.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/髄膜_schema.md",
       "folder": "1.Anatomy",
       "modified": "2026-05-05T17:50:20",
       "tags": []
@@ -2940,7 +2954,7 @@
     },
     {
       "title": "脳血管支配領域_image",
-      "path": "1.Anatomy/Anatomy_info/脳血管支配領域_image.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/脳血管支配領域_image.md",
       "folder": "1.Anatomy",
       "modified": "2026-05-05T14:11:47",
       "tags": []
@@ -2961,7 +2975,7 @@
     },
     {
       "title": "脳葉_schema",
-      "path": "1.Anatomy/Anatomy_info/脳葉_schema.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/脳葉_schema.md",
       "folder": "1.Anatomy",
       "modified": "2026-05-05T13:23:19",
       "tags": []
@@ -3016,14 +3030,14 @@
     },
     {
       "title": "膀胱_schema",
-      "path": "1.Anatomy/Anatomy_info/膀胱_schema.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/膀胱_schema.md",
       "folder": "1.Anatomy",
       "modified": "2026-05-02T17:33:11",
       "tags": []
     },
     {
       "title": "膀胱_sdi",
-      "path": "1.Anatomy/Anatomy_info/膀胱_sdi.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/膀胱_sdi.md",
       "folder": "1.Anatomy",
       "modified": "2026-05-02T17:19:39",
       "tags": []
@@ -3058,14 +3072,14 @@
     },
     {
       "title": "前立腺解剖_sdi",
-      "path": "1.Anatomy/Anatomy_info/前立腺解剖_sdi.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/前立腺解剖_sdi.md",
       "folder": "1.Anatomy",
       "modified": "2026-04-29T13:09:21",
       "tags": []
     },
     {
       "title": "前立腺_image",
-      "path": "1.Anatomy/Anatomy_info/前立腺_image.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/前立腺_image.md",
       "folder": "1.Anatomy",
       "modified": "2026-04-29T13:06:42",
       "tags": []
@@ -3127,14 +3141,14 @@
     },
     {
       "title": "門脈_schema",
-      "path": "1.Anatomy/Anatomy_info/門脈_schema.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/門脈_schema.md",
       "folder": "1.Anatomy",
       "modified": "2026-04-22T18:59:19",
       "tags": []
     },
     {
       "title": "門脈_Image",
-      "path": "1.Anatomy/Anatomy_info/門脈_Image.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/門脈_Image.md",
       "folder": "1.Anatomy",
       "modified": "2026-04-22T18:55:30",
       "tags": []
@@ -3148,21 +3162,21 @@
     },
     {
       "title": "後横隔膜脚腔",
-      "path": "1.Anatomy/Anatomy_info/後横隔膜脚腔.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/後横隔膜脚腔.md",
       "folder": "1.Anatomy",
       "modified": "2026-04-22T13:33:39",
       "tags": []
     },
     {
       "title": "頸部リンパ節_schema",
-      "path": "1.Anatomy/Anatomy_info/頸部リンパ節_schema.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/頸部リンパ節_schema.md",
       "folder": "1.Anatomy",
       "modified": "2026-04-22T10:29:18",
       "tags": []
     },
     {
       "title": "頸部リンパ節_区分",
-      "path": "1.Anatomy/Anatomy_info/頸部リンパ節_区分.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/頸部リンパ節_区分.md",
       "folder": "1.Anatomy",
       "modified": "2026-04-22T10:09:53",
       "tags": []
@@ -3451,7 +3465,7 @@
     },
     {
       "title": "縦隔の区分",
-      "path": "1.Anatomy/Anatomy_info/縦隔の区分.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/縦隔の区分.md",
       "folder": "1.Anatomy",
       "modified": "2026-03-21T17:46:39",
       "tags": []
@@ -3465,7 +3479,7 @@
     },
     {
       "title": "大腿の神経系",
-      "path": "1.Anatomy/Anatomy_info/大腿の神経系.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/大腿の神経系.md",
       "folder": "1.Anatomy",
       "modified": "2026-03-21T17:24:15",
       "tags": []
@@ -3493,14 +3507,14 @@
     },
     {
       "title": "二次小葉",
-      "path": "1.Anatomy/Anatomy_info/二次小葉.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/二次小葉.md",
       "folder": "1.Anatomy",
       "modified": "2026-03-21T14:05:53",
       "tags": []
     },
     {
       "title": "二次小葉の種類 (MillerとReid)",
-      "path": "1.Anatomy/Anatomy_info/二次小葉の種類 (MillerとReid).md",
+      "path": "1.Anatomy/Ω_Anatomy_info/二次小葉の種類 (MillerとReid).md",
       "folder": "1.Anatomy",
       "modified": "2026-03-21T14:05:40",
       "tags": []
@@ -3600,14 +3614,14 @@
     },
     {
       "title": "腎臓",
-      "path": "1.Anatomy/Anatomy_info/腎臓.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/腎臓.md",
       "folder": "1.Anatomy",
       "modified": "2026-03-06T19:43:37",
       "tags": []
     },
     {
       "title": "腎臓の区域",
-      "path": "1.Anatomy/Anatomy_info/腎臓の区域.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/腎臓の区域.md",
       "folder": "1.Anatomy",
       "modified": "2026-03-06T19:41:49",
       "tags": []
@@ -3621,14 +3635,14 @@
     },
     {
       "title": "腎洞",
-      "path": "1.Anatomy/Anatomy_info/腎洞.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/腎洞.md",
       "folder": "1.Anatomy",
       "modified": "2026-03-06T19:37:24",
       "tags": []
     },
     {
       "title": "前立腺_note",
-      "path": "1.Anatomy/Anatomy_info/前立腺_note.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/前立腺_note.md",
       "folder": "1.Anatomy",
       "modified": "2026-03-06T18:50:08",
       "tags": []
@@ -3663,7 +3677,7 @@
     },
     {
       "title": "肺亜区域、気管支",
-      "path": "1.Anatomy/Anatomy_info/肺亜区域、気管支.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/肺亜区域、気管支.md",
       "folder": "1.Anatomy",
       "modified": "2026-03-03T10:46:59",
       "tags": []
@@ -3698,7 +3712,7 @@
     },
     {
       "title": "肋骨、胸骨の位置",
-      "path": "1.Anatomy/Anatomy_info/肋骨、胸骨の位置.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/肋骨、胸骨の位置.md",
       "folder": "1.Anatomy",
       "modified": "2026-02-15T15:58:33",
       "tags": []
@@ -5763,7 +5777,7 @@
     },
     {
       "title": "脊柱起立筋",
-      "path": "1.Anatomy/Anatomy_info/脊柱起立筋.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/脊柱起立筋.md",
       "folder": "1.Anatomy",
       "modified": "2026-01-16T16:10:34",
       "tags": []
@@ -6281,7 +6295,7 @@
     },
     {
       "title": "2.頸部 anatomy image bank",
-      "path": "1.Anatomy/0.bank（雑誌とかの体系的な）/2.頸部 anatomy image bank.md",
+      "path": "1.Anatomy/2.頸部 anatomy image bank.md",
       "folder": "1.Anatomy",
       "modified": "2025-11-26T17:27:46",
       "tags": []
@@ -6533,7 +6547,7 @@
     },
     {
       "title": "縦隔リンパ節・肺門リンパ節",
-      "path": "1.Anatomy/Anatomy_info/縦隔リンパ節・肺門リンパ節.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/縦隔リンパ節・肺門リンパ節.md",
       "folder": "1.Anatomy",
       "modified": "2025-10-09T12:08:21",
       "tags": []
@@ -6911,7 +6925,7 @@
     },
     {
       "title": "肺胞管",
-      "path": "1.Anatomy/Anatomy_info/肺胞管.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/肺胞管.md",
       "folder": "1.Anatomy",
       "modified": "2025-08-27T16:25:29",
       "tags": []
@@ -7037,7 +7051,7 @@
     },
     {
       "title": "Lambert管",
-      "path": "1.Anatomy/Anatomy_info/Lambert管.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/Lambert管.md",
       "folder": "1.Anatomy",
       "modified": "2025-08-21T23:13:42",
       "tags": []
@@ -7093,7 +7107,7 @@
     },
     {
       "title": "左心耳",
-      "path": "1.Anatomy/Anatomy_info/左心耳.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/左心耳.md",
       "folder": "1.Anatomy",
       "modified": "2025-08-12T22:49:52",
       "tags": []
@@ -7177,8 +7191,8 @@
     },
     {
       "title": "肝エコー（左）",
-      "path": "ModMoC/Technics/US/肝エコー（左）.md",
-      "folder": "ModMoC",
+      "path": "Technics/US/肝エコー（左）.md",
+      "folder": "Technics",
       "modified": "2025-08-06T19:23:55",
       "tags": []
     },
@@ -7226,8 +7240,8 @@
     },
     {
       "title": "胆嚢エコー",
-      "path": "ModMoC/Technics/US/胆嚢エコー.md",
-      "folder": "ModMoC",
+      "path": "Technics/US/胆嚢エコー.md",
+      "folder": "Technics",
       "modified": "2025-08-03T15:10:17",
       "tags": []
     },
@@ -7247,15 +7261,15 @@
     },
     {
       "title": "肝エコー（右）",
-      "path": "ModMoC/Technics/US/肝エコー（右）.md",
-      "folder": "ModMoC",
+      "path": "Technics/US/肝エコー（右）.md",
+      "folder": "Technics",
       "modified": "2025-08-02T18:14:44",
       "tags": []
     },
     {
       "title": "膵エコー",
-      "path": "ModMoC/Technics/US/膵エコー.md",
-      "folder": "ModMoC",
+      "path": "Technics/US/膵エコー.md",
+      "folder": "Technics",
       "modified": "2025-08-02T18:08:15",
       "tags": []
     },
@@ -7373,7 +7387,7 @@
     },
     {
       "title": "腸腰筋（大腰筋＋腸骨筋）",
-      "path": "1.Anatomy/Anatomy_info/腸腰筋（大腰筋＋腸骨筋）.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/腸腰筋（大腰筋＋腸骨筋）.md",
       "folder": "1.Anatomy",
       "modified": "2025-07-26T16:30:30",
       "tags": []
@@ -7485,7 +7499,7 @@
     },
     {
       "title": "気管支動脈",
-      "path": "1.Anatomy/Anatomy_info/気管支動脈.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/気管支動脈.md",
       "folder": "1.Anatomy",
       "modified": "2025-07-15T22:37:14",
       "tags": []
@@ -7520,7 +7534,7 @@
     },
     {
       "title": "胸骨傍リンパ",
-      "path": "1.Anatomy/Anatomy_info/胸骨傍リンパ.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/胸骨傍リンパ.md",
       "folder": "1.Anatomy",
       "modified": "2025-07-13T19:44:44",
       "tags": []
@@ -8815,7 +8829,7 @@
     },
     {
       "title": "広義間質・狭義間質",
-      "path": "1.Anatomy/Anatomy_info/広義間質・狭義間質.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/広義間質・狭義間質.md",
       "folder": "1.Anatomy",
       "modified": "2025-02-20T14:18:02",
       "tags": []
@@ -8857,7 +8871,7 @@
     },
     {
       "title": "小葉・細葉の資料一覧",
-      "path": "1.Anatomy/Anatomy_info/小葉・細葉の資料一覧.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/小葉・細葉の資料一覧.md",
       "folder": "1.Anatomy",
       "modified": "2025-02-17T22:24:11",
       "tags": []
@@ -10425,7 +10439,7 @@
     },
     {
       "title": "腱板構成筋肉",
-      "path": "1.Anatomy/Anatomy_info/腱板構成筋肉.md",
+      "path": "1.Anatomy/Ω_Anatomy_info/腱板構成筋肉.md",
       "folder": "1.Anatomy",
       "modified": "2025-01-02T12:15:47",
       "tags": []
