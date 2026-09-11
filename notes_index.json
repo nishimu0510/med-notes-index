@@ -1,8 +1,22 @@
 {
-  "generated": "2026-09-11T01:10:29",
+  "generated": "2026-09-12T03:45:56",
   "vault": "Med",
-  "count": 1736,
+  "count": 1738,
   "notes": [
+    {
+      "title": "0910angio",
+      "path": "Technics/Angio/0910angio.md",
+      "folder": "Technics",
+      "modified": "2026-09-12T02:55:44",
+      "tags": []
+    },
+    {
+      "title": "2026-09-11",
+      "path": "ChatGPT/Log/2026-09-11.md",
+      "folder": "ChatGPT",
+      "modified": "2026-09-11T19:31:15",
+      "tags": []
+    },
     {
       "title": "2026-09-10",
       "path": "ChatGPT/Log/2026-09-10.md",
