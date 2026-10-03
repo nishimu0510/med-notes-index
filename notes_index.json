@@ -1,20 +1,20 @@
 {
-  "generated": "2026-10-04T07:07:01",
+  "generated": "2026-10-04T08:00:01",
   "vault": "Med",
   "count": 1756,
   "notes": [
+    {
+      "title": "2026-10-04",
+      "path": "ChatGPT/Log/2026-10-04.md",
+      "folder": "ChatGPT",
+      "modified": "2026-10-04T07:08:07",
+      "tags": []
+    },
     {
       "title": "Basic Window Level",
       "path": "3.Reading/1.General/CT Window level/Basic Window Level.md",
       "folder": "3.Reading",
       "modified": "2026-10-04T06:49:44",
-      "tags": []
-    },
-    {
-      "title": "2026-10-04",
-      "path": "ChatGPT/Log/2026-10-04.md",
-      "folder": "ChatGPT",
-      "modified": "2026-10-04T06:38:05",
       "tags": []
     },
     {
