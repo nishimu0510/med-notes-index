@@ -1,8 +1,22 @@
 {
-  "generated": "2026-10-02T00:07:56",
+  "generated": "2026-10-03T16:00:02",
   "vault": "Med",
-  "count": 1752,
+  "count": 1754,
   "notes": [
+    {
+      "title": "2026-10-02",
+      "path": "ChatGPT/Log/2026-10-02.md",
+      "folder": "ChatGPT",
+      "modified": "2026-10-03T01:19:13",
+      "tags": []
+    },
+    {
+      "title": "2026-10-01",
+      "path": "ChatGPT/Log/2026-10-01.md",
+      "folder": "ChatGPT",
+      "modified": "2026-10-02T01:10:22",
+      "tags": []
+    },
     {
       "title": "白質病変_temp",
       "path": "ModInfo/白質病変_temp.md",
