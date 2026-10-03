@@ -1,8 +1,22 @@
 {
-  "generated": "2026-10-04T00:00:16",
+  "generated": "2026-10-04T07:07:01",
   "vault": "Med",
-  "count": 1755,
+  "count": 1756,
   "notes": [
+    {
+      "title": "Basic Window Level",
+      "path": "3.Reading/1.General/CT Window level/Basic Window Level.md",
+      "folder": "3.Reading",
+      "modified": "2026-10-04T06:49:44",
+      "tags": []
+    },
+    {
+      "title": "2026-10-04",
+      "path": "ChatGPT/Log/2026-10-04.md",
+      "folder": "ChatGPT",
+      "modified": "2026-10-04T06:38:05",
+      "tags": []
+    },
     {
       "title": "肝膿瘍",
       "path": "2.Disease/Disease_info/肝膿瘍.md",
@@ -3473,13 +3487,6 @@
       "path": "3.Reading/1.General/CT Window level/Individual Window Level.md",
       "folder": "3.Reading",
       "modified": "2026-04-05T18:33:28",
-      "tags": []
-    },
-    {
-      "title": "Basic Window Level",
-      "path": "3.Reading/1.General/CT Window level/Basic Window Level.md",
-      "folder": "3.Reading",
-      "modified": "2026-04-05T18:29:47",
       "tags": []
     },
     {
