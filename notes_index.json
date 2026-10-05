@@ -1,8 +1,22 @@
 {
-  "generated": "2026-10-06T00:00:02",
+  "generated": "2026-10-06T04:00:02",
   "vault": "Med",
-  "count": 1757,
+  "count": 1759,
   "notes": [
+    {
+      "title": "2026-10-06_出血性脳梗塞",
+      "path": "💎 Pearls/2026-10-06_出血性脳梗塞.md",
+      "folder": "💎 Pearls",
+      "modified": "2026-10-06T00:40:12",
+      "tags": []
+    },
+    {
+      "title": "2026-10-05",
+      "path": "ChatGPT/Log/2026-10-05.md",
+      "folder": "ChatGPT",
+      "modified": "2026-10-06T00:10:00",
+      "tags": []
+    },
     {
       "title": "White matter buckling sign",
       "path": "ModMaterial/徹頭徹尾/White matter buckling sign.md",
