@@ -1,13 +1,104 @@
 {
-  "generated": "2026-10-09T09:01:09",
+  "generated": "2026-10-09T15:36:36",
   "vault": "Med",
-  "count": 1770,
+  "count": 1776,
   "notes": [
+    {
+      "title": "肝硬変",
+      "path": "ModInfo/肝硬変.md",
+      "folder": "ModInfo",
+      "modified": "2026-10-09T15:31:16",
+      "tags": []
+    },
     {
       "title": "2026-07-17",
       "path": "4.Daily/Daily_DB/2026-07-17.md",
       "folder": "4.Daily",
-      "modified": "2026-10-08T18:07:53",
+      "modified": "2026-10-09T15:26:51",
+      "tags": []
+    },
+    {
+      "title": "乳突蜂巣炎・乳様突起炎_sdi",
+      "path": "2.Disease/ΩDisease_info/乳突蜂巣炎・乳様突起炎_sdi.md",
+      "folder": "2.Disease",
+      "modified": "2026-10-09T15:23:03",
+      "tags": []
+    },
+    {
+      "title": "2.頸部の疾患",
+      "path": "2.Disease/MoC_note/2.頸部の疾患.md",
+      "folder": "2.Disease",
+      "modified": "2026-10-09T13:53:25",
+      "tags": []
+    },
+    {
+      "title": "大腿骨",
+      "path": "ModInfo/大腿骨.md",
+      "folder": "ModInfo",
+      "modified": "2026-10-09T13:50:24",
+      "tags": []
+    },
+    {
+      "title": "8.骨軟の解剖_MoC",
+      "path": "1.Anatomy/MoC_notes/8.骨軟の解剖_MoC.md",
+      "folder": "1.Anatomy",
+      "modified": "2026-10-09T13:49:18",
+      "tags": []
+    },
+    {
+      "title": "大腿骨転子部骨折の画像所見と頸部骨折との違い_sdi",
+      "path": "ModInfo/大腿骨転子部骨折の画像所見と頸部骨折との違い_sdi.md",
+      "folder": "ModInfo",
+      "modified": "2026-10-09T13:48:53",
+      "tags": []
+    },
+    {
+      "title": "6.骨軟部の疾患",
+      "path": "2.Disease/MoC_note/6.骨軟部の疾患.md",
+      "folder": "2.Disease",
+      "modified": "2026-10-09T13:40:55",
+      "tags": []
+    },
+    {
+      "title": "壁側リンパと臓側リンパに分けると",
+      "path": "1.Anatomy/Ω_Anatomy_info/壁側リンパと臓側リンパに分けると.md",
+      "folder": "1.Anatomy",
+      "modified": "2026-10-09T13:30:32",
+      "tags": []
+    },
+    {
+      "title": "胃癌規約でのリンパ節区分",
+      "path": "1.Anatomy/Ω_Anatomy_info/胃癌規約でのリンパ節区分.md",
+      "folder": "1.Anatomy",
+      "modified": "2026-10-09T13:16:37",
+      "tags": []
+    },
+    {
+      "title": "腹部リンパ節",
+      "path": "ModInfo/腹部リンパ節.md",
+      "folder": "ModInfo",
+      "modified": "2026-10-09T12:42:33",
+      "tags": []
+    },
+    {
+      "title": "後横隔膜脚腔",
+      "path": "1.Anatomy/Ω_Anatomy_info/後横隔膜脚腔.md",
+      "folder": "1.Anatomy",
+      "modified": "2026-10-09T12:41:52",
+      "tags": []
+    },
+    {
+      "title": "気管のリンパ節",
+      "path": "1.Anatomy/Ω_Anatomy_info/気管のリンパ節.md",
+      "folder": "1.Anatomy",
+      "modified": "2026-10-09T12:35:41",
+      "tags": []
+    },
+    {
+      "title": "縦隔リンパ節・肺門リンパ節",
+      "path": "1.Anatomy/Ω_Anatomy_info/縦隔リンパ節・肺門リンパ節.md",
+      "folder": "1.Anatomy",
+      "modified": "2026-10-09T11:34:29",
       "tags": []
     },
     {
@@ -29,13 +120,6 @@
       "path": "ModInfo/膝 MRI 解体新書.md",
       "folder": "ModInfo",
       "modified": "2026-10-08T17:00:53",
-      "tags": []
-    },
-    {
-      "title": "8.骨軟の解剖_MoC",
-      "path": "1.Anatomy/MoC_notes/8.骨軟の解剖_MoC.md",
-      "folder": "1.Anatomy",
-      "modified": "2026-10-08T17:00:33",
       "tags": []
     },
     {
@@ -106,13 +190,6 @@
       "path": "ModInfo/骨内骨腫、外骨腫_sdi.md",
       "folder": "ModInfo",
       "modified": "2026-10-08T16:06:29",
-      "tags": []
-    },
-    {
-      "title": "6.骨軟部の疾患",
-      "path": "2.Disease/6.骨軟部の疾患.md",
-      "folder": "2.Disease",
-      "modified": "2026-10-08T16:05:00",
       "tags": []
     },
     {
@@ -194,7 +271,7 @@
     },
     {
       "title": "肝膿瘍",
-      "path": "2.Disease/Disease_info/肝膿瘍.md",
+      "path": "2.Disease/ΩDisease_info/肝膿瘍.md",
       "folder": "2.Disease",
       "modified": "2026-10-07T11:58:27",
       "tags": []
@@ -480,13 +557,6 @@
       "tags": []
     },
     {
-      "title": "肝硬変",
-      "path": "ModInfo/肝硬変.md",
-      "folder": "ModInfo",
-      "modified": "2026-09-06T19:44:59",
-      "tags": []
-    },
-    {
       "title": "7.その他",
       "path": "3.Reading/2.Speciality/7.その他.md",
       "folder": "3.Reading",
@@ -495,7 +565,7 @@
     },
     {
       "title": "3.Chest Disease List_MoC",
-      "path": "2.Disease/3.Chest Disease List_MoC.md",
+      "path": "2.Disease/MoC_note/3.Chest Disease List_MoC.md",
       "folder": "2.Disease",
       "modified": "2026-09-06T18:57:52",
       "tags": []
@@ -523,7 +593,7 @@
     },
     {
       "title": "1.頭部の疾患",
-      "path": "2.Disease/1.頭部の疾患.md",
+      "path": "2.Disease/MoC_note/1.頭部の疾患.md",
       "folder": "2.Disease",
       "modified": "2026-09-06T18:23:57",
       "tags": []
@@ -558,7 +628,7 @@
     },
     {
       "title": "小脳梗塞",
-      "path": "2.Disease/Disease_info/小脳梗塞.md",
+      "path": "2.Disease/ΩDisease_info/小脳梗塞.md",
       "folder": "2.Disease",
       "modified": "2026-09-06T17:03:01",
       "tags": []
@@ -669,13 +739,6 @@
       "tags": []
     },
     {
-      "title": "2.頸部の疾患",
-      "path": "2.Disease/2.頸部の疾患.md",
-      "folder": "2.Disease",
-      "modified": "2026-09-01T01:42:47",
-      "tags": []
-    },
-    {
       "title": "Voice 関係整理",
       "path": "Voice_input/Voice 関係整理.md",
       "folder": "Voice_input",
@@ -754,7 +817,7 @@
     },
     {
       "title": "中咽頭癌",
-      "path": "2.Disease/Disease_info/中咽頭癌.md",
+      "path": "2.Disease/ΩDisease_info/中咽頭癌.md",
       "folder": "2.Disease",
       "modified": "2026-08-30T00:38:27",
       "tags": []
@@ -768,14 +831,14 @@
     },
     {
       "title": "転移性脳腫瘍、脳転移",
-      "path": "2.Disease/Disease_info/転移性脳腫瘍、脳転移.md",
+      "path": "2.Disease/ΩDisease_info/転移性脳腫瘍、脳転移.md",
       "folder": "2.Disease",
       "modified": "2026-08-29T23:54:31",
       "tags": []
     },
     {
       "title": "エンドリーク_sdi",
-      "path": "2.Disease/Disease_info/エンドリーク_sdi.md",
+      "path": "2.Disease/ΩDisease_info/エンドリーク_sdi.md",
       "folder": "2.Disease",
       "modified": "2026-08-29T17:47:19",
       "tags": []
@@ -831,7 +894,7 @@
     },
     {
       "title": "過敏性肺炎",
-      "path": "2.Disease/Disease_info/過敏性肺炎.md",
+      "path": "2.Disease/ΩDisease_info/過敏性肺炎.md",
       "folder": "2.Disease",
       "modified": "2026-08-25T17:58:47",
       "tags": []
@@ -918,7 +981,7 @@
     },
     {
       "title": "慢性中耳炎、真珠腫",
-      "path": "2.Disease/Disease_info/慢性中耳炎、真珠腫.md",
+      "path": "2.Disease/ΩDisease_info/慢性中耳炎、真珠腫.md",
       "folder": "2.Disease",
       "modified": "2026-08-19T19:53:45",
       "tags": []
@@ -974,7 +1037,7 @@
     },
     {
       "title": "大動脈切迫破裂",
-      "path": "2.Disease/Disease_info/大動脈切迫破裂.md",
+      "path": "2.Disease/ΩDisease_info/大動脈切迫破裂.md",
       "folder": "2.Disease",
       "modified": "2026-08-16T19:20:14",
       "tags": []
@@ -1044,7 +1107,7 @@
     },
     {
       "title": "類皮嚢胞_類皮腫_類皮嚢腫_皮様嚢腫_嚢胞性奇形腫（dermoid cyst）、類表皮嚢胞_類表皮種_表皮嚢腫_粉瘤 （epidermoid cyst）",
-      "path": "2.Disease/Disease_info/類皮嚢胞_類皮腫_類皮嚢腫_皮様嚢腫_嚢胞性奇形腫（dermoid cyst）、類表皮嚢胞_類表皮種_表皮嚢腫_粉瘤 （epidermoid cyst）.md",
+      "path": "2.Disease/ΩDisease_info/類皮嚢胞_類皮腫_類皮嚢腫_皮様嚢腫_嚢胞性奇形腫（dermoid cyst）、類表皮嚢胞_類表皮種_表皮嚢腫_粉瘤 （epidermoid cyst）.md",
       "folder": "2.Disease",
       "modified": "2026-08-16T17:16:55",
       "tags": []
@@ -1072,7 +1135,7 @@
     },
     {
       "title": "海綿状血管腫・海綿状血管奇形（CCM,VM）",
-      "path": "2.Disease/Disease_info/海綿状血管腫・海綿状血管奇形（CCM,VM）.md",
+      "path": "2.Disease/ΩDisease_info/海綿状血管腫・海綿状血管奇形（CCM,VM）.md",
       "folder": "2.Disease",
       "modified": "2026-08-16T16:55:23",
       "tags": []
@@ -1146,7 +1209,7 @@
     },
     {
       "title": "細気管支炎",
-      "path": "2.Disease/Disease_info/細気管支炎.md",
+      "path": "2.Disease/ΩDisease_info/細気管支炎.md",
       "folder": "2.Disease",
       "modified": "2026-08-12T20:17:46",
       "tags": []
@@ -1185,7 +1248,7 @@
     },
     {
       "title": "赤色血栓、白色血栓",
-      "path": "2.Disease/Disease_info/赤色血栓、白色血栓.md",
+      "path": "2.Disease/ΩDisease_info/赤色血栓、白色血栓.md",
       "folder": "2.Disease",
       "modified": "2026-08-12T08:15:55",
       "tags": []
@@ -1269,7 +1332,7 @@
     },
     {
       "title": "5.骨盤部の疾患",
-      "path": "2.Disease/5.骨盤部の疾患.md",
+      "path": "2.Disease/MoC_note/5.骨盤部の疾患.md",
       "folder": "2.Disease",
       "modified": "2026-08-09T23:44:12",
       "tags": []
@@ -1375,21 +1438,21 @@
     },
     {
       "title": "extravasationと仮性動脈瘤",
-      "path": "2.Disease/Disease_info/extravasationと仮性動脈瘤.md",
+      "path": "2.Disease/ΩDisease_info/extravasationと仮性動脈瘤.md",
       "folder": "2.Disease",
       "modified": "2026-08-08T02:46:41",
       "tags": []
     },
     {
       "title": "7.全身性の疾患",
-      "path": "2.Disease/7.全身性の疾患.md",
+      "path": "2.Disease/MoC_note/7.全身性の疾患.md",
       "folder": "2.Disease",
       "modified": "2026-08-08T02:42:08",
       "tags": []
     },
     {
       "title": "仮性動脈瘤、真性動脈瘤",
-      "path": "2.Disease/Disease_info/仮性動脈瘤、真性動脈瘤.md",
+      "path": "2.Disease/ΩDisease_info/仮性動脈瘤、真性動脈瘤.md",
       "folder": "2.Disease",
       "modified": "2026-08-08T02:40:06",
       "tags": []
@@ -1403,21 +1466,21 @@
     },
     {
       "title": "胆嚢ポリープ",
-      "path": "2.Disease/Disease_info/胆嚢ポリープ.md",
+      "path": "2.Disease/ΩDisease_info/胆嚢ポリープ.md",
       "folder": "2.Disease",
       "modified": "2026-08-07T01:13:13",
       "tags": []
     },
     {
       "title": "4.腹部の疾患",
-      "path": "2.Disease/4.腹部の疾患.md",
+      "path": "2.Disease/MoC_note/4.腹部の疾患.md",
       "folder": "2.Disease",
       "modified": "2026-08-07T01:07:50",
       "tags": []
     },
     {
       "title": "陳旧性結核",
-      "path": "2.Disease/Disease_info/陳旧性結核.md",
+      "path": "2.Disease/ΩDisease_info/陳旧性結核.md",
       "folder": "2.Disease",
       "modified": "2026-08-07T01:00:14",
       "tags": []
@@ -1496,7 +1559,7 @@
     },
     {
       "title": "黄色髄と赤色髄",
-      "path": "2.Disease/Disease_info/黄色髄と赤色髄.md",
+      "path": "2.Disease/ΩDisease_info/黄色髄と赤色髄.md",
       "folder": "2.Disease",
       "modified": "2026-08-02T11:35:22",
       "tags": []
@@ -1510,7 +1573,7 @@
     },
     {
       "title": "Brunner腺過形成",
-      "path": "2.Disease/Disease_info/Brunner腺過形成.md",
+      "path": "2.Disease/ΩDisease_info/Brunner腺過形成.md",
       "folder": "2.Disease",
       "modified": "2026-08-01T17:31:52",
       "tags": []
@@ -1685,14 +1748,14 @@
     },
     {
       "title": "放射線肺臓炎、放射線肺線維症",
-      "path": "2.Disease/Disease_info/放射線肺臓炎、放射線肺線維症.md",
+      "path": "2.Disease/ΩDisease_info/放射線肺臓炎、放射線肺線維症.md",
       "folder": "2.Disease",
       "modified": "2026-07-22T16:50:26",
       "tags": []
     },
     {
       "title": "放射線肺臓炎、放射線肺線維症_sdi",
-      "path": "2.Disease/Disease_info/放射線肺臓炎、放射線肺線維症_sdi.md",
+      "path": "2.Disease/ΩDisease_info/放射線肺臓炎、放射線肺線維症_sdi.md",
       "folder": "2.Disease",
       "modified": "2026-07-22T16:42:08",
       "tags": []
@@ -1783,7 +1846,7 @@
     },
     {
       "title": "びまん性軸索損傷（DAI）、びまん性脳損傷",
-      "path": "2.Disease/Disease_info/びまん性軸索損傷（DAI）、びまん性脳損傷.md",
+      "path": "2.Disease/ΩDisease_info/びまん性軸索損傷（DAI）、びまん性脳損傷.md",
       "folder": "2.Disease",
       "modified": "2026-07-20T18:55:04",
       "tags": []
@@ -1860,7 +1923,7 @@
     },
     {
       "title": "混合型肝癌",
-      "path": "2.Disease/Disease_info/混合型肝癌.md",
+      "path": "2.Disease/ΩDisease_info/混合型肝癌.md",
       "folder": "2.Disease",
       "modified": "2026-07-20T16:12:14",
       "tags": []
@@ -2220,7 +2283,7 @@
     },
     {
       "title": "被包化胸水_sdi",
-      "path": "2.Disease/Disease_info/被包化胸水_sdi.md",
+      "path": "2.Disease/ΩDisease_info/被包化胸水_sdi.md",
       "folder": "2.Disease",
       "modified": "2026-06-27T19:47:22",
       "tags": []
@@ -2236,7 +2299,7 @@
     },
     {
       "title": "肺腺癌のスペクトラム_sdi",
-      "path": "2.Disease/Disease_info/肺腺癌のスペクトラム_sdi.md",
+      "path": "2.Disease/ΩDisease_info/肺腺癌のスペクトラム_sdi.md",
       "folder": "2.Disease",
       "modified": "2026-06-27T19:19:37",
       "tags": []
@@ -2399,7 +2462,7 @@
     },
     {
       "title": "膵管癒合不全_sdi",
-      "path": "2.Disease/Disease_info/膵管癒合不全_sdi.md",
+      "path": "2.Disease/ΩDisease_info/膵管癒合不全_sdi.md",
       "folder": "2.Disease",
       "modified": "2026-06-27T12:39:37",
       "tags": []
@@ -2420,7 +2483,7 @@
     },
     {
       "title": "膵胆管合流異常_sdi",
-      "path": "2.Disease/Disease_info/膵胆管合流異常_sdi.md",
+      "path": "2.Disease/ΩDisease_info/膵胆管合流異常_sdi.md",
       "folder": "2.Disease",
       "modified": "2026-06-27T12:24:30",
       "tags": []
@@ -2535,7 +2598,7 @@
     },
     {
       "title": "粘液瘤",
-      "path": "2.Disease/Disease_info/粘液瘤.md",
+      "path": "2.Disease/ΩDisease_info/粘液瘤.md",
       "folder": "2.Disease",
       "modified": "2026-06-13T16:44:03",
       "tags": []
@@ -2570,7 +2633,7 @@
     },
     {
       "title": "歯性上顎洞炎",
-      "path": "2.Disease/Disease_info/歯性上顎洞炎.md",
+      "path": "2.Disease/ΩDisease_info/歯性上顎洞炎.md",
       "folder": "2.Disease",
       "modified": "2026-06-13T15:44:38",
       "tags": []
@@ -2661,7 +2724,7 @@
     },
     {
       "title": "慢性副鼻腔炎",
-      "path": "2.Disease/Disease_info/慢性副鼻腔炎.md",
+      "path": "2.Disease/ΩDisease_info/慢性副鼻腔炎.md",
       "folder": "2.Disease",
       "modified": "2026-06-13T12:46:02",
       "tags": []
@@ -2712,7 +2775,7 @@
     },
     {
       "title": "真菌性副鼻腔炎",
-      "path": "2.Disease/Disease_info/真菌性副鼻腔炎.md",
+      "path": "2.Disease/ΩDisease_info/真菌性副鼻腔炎.md",
       "folder": "2.Disease",
       "modified": "2026-06-10T20:57:15",
       "tags": []
@@ -2796,7 +2859,7 @@
     },
     {
       "title": "乳癌皮膚浸潤",
-      "path": "2.Disease/Disease_info/乳癌皮膚浸潤.md",
+      "path": "2.Disease/ΩDisease_info/乳癌皮膚浸潤.md",
       "folder": "2.Disease",
       "modified": "2026-05-30T20:04:07",
       "tags": []
@@ -2810,7 +2873,7 @@
     },
     {
       "title": "CTでの脂肪肝の基準",
-      "path": "2.Disease/Disease_info/CTでの脂肪肝の基準.md",
+      "path": "2.Disease/ΩDisease_info/CTでの脂肪肝の基準.md",
       "folder": "2.Disease",
       "modified": "2026-05-30T19:47:06",
       "tags": []
@@ -2961,7 +3024,7 @@
     },
     {
       "title": "内膜症性嚢胞_sdi",
-      "path": "2.Disease/Disease_info/内膜症性嚢胞_sdi.md",
+      "path": "2.Disease/ΩDisease_info/内膜症性嚢胞_sdi.md",
       "folder": "2.Disease",
       "modified": "2026-05-16T23:56:01",
       "tags": []
@@ -2989,7 +3052,7 @@
     },
     {
       "title": "皮下血腫・挫傷",
-      "path": "2.Disease/Disease_info/皮下血腫・挫傷.md",
+      "path": "2.Disease/ΩDisease_info/皮下血腫・挫傷.md",
       "folder": "2.Disease",
       "modified": "2026-05-16T18:23:53",
       "tags": []
@@ -3073,14 +3136,14 @@
     },
     {
       "title": "ラクナ梗塞",
-      "path": "2.Disease/Disease_info/ラクナ梗塞.md",
+      "path": "2.Disease/ΩDisease_info/ラクナ梗塞.md",
       "folder": "2.Disease",
       "modified": "2026-05-08T08:16:10",
       "tags": []
     },
     {
       "title": "血管周囲腔、ラクナ梗塞_sdi",
-      "path": "2.Disease/Disease_info/血管周囲腔、ラクナ梗塞_sdi.md",
+      "path": "2.Disease/ΩDisease_info/血管周囲腔、ラクナ梗塞_sdi.md",
       "folder": "2.Disease",
       "modified": "2026-05-08T08:13:22",
       "tags": []
@@ -3143,7 +3206,7 @@
     },
     {
       "title": "大動脈解離",
-      "path": "2.Disease/Disease_info/大動脈解離.md",
+      "path": "2.Disease/ΩDisease_info/大動脈解離.md",
       "folder": "2.Disease",
       "modified": "2026-05-06T18:21:45",
       "tags": []
@@ -3164,7 +3227,7 @@
     },
     {
       "title": "NSIP",
-      "path": "2.Disease/Disease_info/NSIP.md",
+      "path": "2.Disease/ΩDisease_info/NSIP.md",
       "folder": "2.Disease",
       "modified": "2026-05-06T17:30:10",
       "tags": []
@@ -3248,7 +3311,7 @@
     },
     {
       "title": "漏斗状血管拡張",
-      "path": "2.Disease/Disease_info/漏斗状血管拡張.md",
+      "path": "2.Disease/ΩDisease_info/漏斗状血管拡張.md",
       "folder": "2.Disease",
       "modified": "2026-05-05T20:02:36",
       "tags": []
@@ -3366,7 +3429,7 @@
     },
     {
       "title": "上皮内腺癌 (AIS, adenocarcinoma in situ)",
-      "path": "2.Disease/Disease_info/上皮内腺癌 (AIS, adenocarcinoma in situ).md",
+      "path": "2.Disease/ΩDisease_info/上皮内腺癌 (AIS, adenocarcinoma in situ).md",
       "folder": "2.Disease",
       "modified": "2026-05-03T16:11:12",
       "tags": []
@@ -3401,7 +3464,7 @@
     },
     {
       "title": "PRES 可逆性後部白質脳症症候群",
-      "path": "2.Disease/Disease_info/PRES 可逆性後部白質脳症症候群.md",
+      "path": "2.Disease/ΩDisease_info/PRES 可逆性後部白質脳症症候群.md",
       "folder": "2.Disease",
       "modified": "2026-05-02T16:33:31",
       "tags": []
@@ -3415,7 +3478,7 @@
     },
     {
       "title": "前立腺癌PI-RADSv2.1_sdi",
-      "path": "2.Disease/Disease_info/前立腺癌PI-RADSv2.1_sdi.md",
+      "path": "2.Disease/ΩDisease_info/前立腺癌PI-RADSv2.1_sdi.md",
       "folder": "2.Disease",
       "modified": "2026-04-29T16:45:19",
       "tags": []
@@ -3508,13 +3571,6 @@
       "path": "ModInfo/肝胆膵の血管.md",
       "folder": "ModInfo",
       "modified": "2026-04-22T15:02:57",
-      "tags": []
-    },
-    {
-      "title": "後横隔膜脚腔",
-      "path": "1.Anatomy/Ω_Anatomy_info/後横隔膜脚腔.md",
-      "folder": "1.Anatomy",
-      "modified": "2026-04-22T13:33:39",
       "tags": []
     },
     {
@@ -3728,21 +3784,21 @@
     },
     {
       "title": "IPF,UIP",
-      "path": "2.Disease/Disease_info/IPF,UIP.md",
+      "path": "2.Disease/ΩDisease_info/IPF,UIP.md",
       "folder": "2.Disease",
       "modified": "2026-03-29T19:13:08",
       "tags": []
     },
     {
       "title": "間質性肺炎の所見まとめ",
-      "path": "2.Disease/Disease_info/間質性肺炎の所見まとめ.md",
+      "path": "2.Disease/ΩDisease_info/間質性肺炎の所見まとめ.md",
       "folder": "2.Disease",
       "modified": "2026-03-29T18:52:04",
       "tags": []
     },
     {
       "title": "間質性肺炎_biginner",
-      "path": "2.Disease/Disease_info/間質性肺炎_biginner.md",
+      "path": "2.Disease/ΩDisease_info/間質性肺炎_biginner.md",
       "folder": "2.Disease",
       "modified": "2026-03-29T18:32:17",
       "tags": []
@@ -4181,7 +4237,7 @@
     },
     {
       "title": "DISH",
-      "path": "2.Disease/Disease_info/DISH.md",
+      "path": "2.Disease/ΩDisease_info/DISH.md",
       "folder": "2.Disease",
       "modified": "2026-02-07T17:11:22",
       "tags": []
@@ -6154,13 +6210,6 @@
       "tags": []
     },
     {
-      "title": "腹部リンパ節",
-      "path": "ModInfo/腹部リンパ節.md",
-      "folder": "ModInfo",
-      "modified": "2026-01-10T12:35:59",
-      "tags": []
-    },
-    {
       "title": "肋軟骨石灰化",
       "path": "ModInfo/肋軟骨石灰化.md",
       "folder": "ModInfo",
@@ -6879,13 +6928,6 @@
       "path": "ModInfo/NSF（Nephrogenic Systemic Fibrosis：腎原性全身性線維症）.md",
       "folder": "ModInfo",
       "modified": "2025-10-12T13:28:54",
-      "tags": []
-    },
-    {
-      "title": "縦隔リンパ節・肺門リンパ節",
-      "path": "1.Anatomy/Ω_Anatomy_info/縦隔リンパ節・肺門リンパ節.md",
-      "folder": "1.Anatomy",
-      "modified": "2025-10-09T12:08:21",
       "tags": []
     },
     {
@@ -12529,6 +12571,42 @@
       "date": "2026-07-17",
       "type": "Lessons",
       "text": "心横隔膜角リンパ節=横隔膜上リンパ節の一部のことか",
+      "path": "4.Daily/Daily_DB/2026-07-17.md"
+    },
+    {
+      "date": "2026-07-17",
+      "type": "Lessons",
+      "text": "副腎転移をきたしやすいのは、肺癌・乳癌・メラノーマ・腎細胞癌・胃大腸肝癌。骨転移とかぶってるか？",
+      "path": "4.Daily/Daily_DB/2026-07-17.md"
+    },
+    {
+      "date": "2026-07-17",
+      "type": "Lessons",
+      "text": "総胆管拡張はまあ普通は10mm。胆嚢取ってたら15はデカいかも。",
+      "path": "4.Daily/Daily_DB/2026-07-17.md"
+    },
+    {
+      "date": "2026-07-17",
+      "type": "Lessons",
+      "text": "気管気管支リンパと下部気管傍リンパは同じ",
+      "path": "4.Daily/Daily_DB/2026-07-17.md"
+    },
+    {
+      "date": "2026-07-17",
+      "type": "Lessons",
+      "text": "乳突蜂巣炎は中耳炎からの波及",
+      "path": "4.Daily/Daily_DB/2026-07-17.md"
+    },
+    {
+      "date": "2026-07-17",
+      "type": "Lessons",
+      "text": "虚血性腸炎の好発部位は下行結腸・S状結腸。解剖学的には血流境界の脾湾曲部と直腸S状移行部",
+      "path": "4.Daily/Daily_DB/2026-07-17.md"
+    },
+    {
+      "date": "2026-07-17",
+      "type": "Cautions",
+      "text": "肝腎シャント見逃し",
       "path": "4.Daily/Daily_DB/2026-07-17.md"
     },
     {
