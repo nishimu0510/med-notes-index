@@ -1,20 +1,309 @@
 {
-  "generated": "2026-10-09T15:36:36",
+  "generated": "2026-10-31T05:00:22",
   "vault": "Med",
-  "count": 1776,
+  "count": 1796,
   "notes": [
     {
-      "title": "肝硬変",
-      "path": "ModInfo/肝硬変.md",
+      "title": "2026-10-30",
+      "path": "ChatGPT/Log/2026-10-30.md",
+      "folder": "ChatGPT",
+      "modified": "2026-10-30T18:54:22",
+      "tags": []
+    },
+    {
+      "title": "2026-10-29",
+      "path": "ChatGPT/Log/2026-10-29.md",
+      "folder": "ChatGPT",
+      "modified": "2026-10-29T21:02:03",
+      "tags": []
+    },
+    {
+      "title": "主肺動脈と肺動脈幹",
+      "path": "ModInfo/主肺動脈と肺動脈幹.md",
       "folder": "ModInfo",
-      "modified": "2026-10-09T15:31:16",
+      "modified": "2026-10-27T18:04:15",
+      "tags": []
+    },
+    {
+      "title": "3.胸部の解剖_MoC",
+      "path": "1.Anatomy/MoC_notes/3.胸部の解剖_MoC.md",
+      "folder": "1.Anatomy",
+      "modified": "2026-10-27T18:03:21",
+      "tags": []
+    },
+    {
+      "title": "2026-10-27",
+      "path": "ChatGPT/Log/2026-10-27.md",
+      "folder": "ChatGPT",
+      "modified": "2026-10-27T14:49:10",
+      "tags": []
+    },
+    {
+      "title": "2026-10-26",
+      "path": "ChatGPT/Log/2026-10-26.md",
+      "folder": "ChatGPT",
+      "modified": "2026-10-26T18:59:21",
+      "tags": []
+    },
+    {
+      "title": "2026-10-23",
+      "path": "ChatGPT/Log/2026-10-23.md",
+      "folder": "ChatGPT",
+      "modified": "2026-10-23T23:36:21",
+      "tags": []
+    },
+    {
+      "title": "2026-10-22",
+      "path": "ChatGPT/Log/2026-10-22.md",
+      "folder": "ChatGPT",
+      "modified": "2026-10-23T08:18:23",
+      "tags": []
+    },
+    {
+      "title": "5.骨盤の解剖_MoC",
+      "path": "1.Anatomy/MoC_notes/5.骨盤の解剖_MoC.md",
+      "folder": "1.Anatomy",
+      "modified": "2026-10-21T17:44:15",
+      "tags": []
+    },
+    {
+      "title": "乳腺のリンパ節",
+      "path": "1.Anatomy/Ω_Anatomy_info/乳腺のリンパ節.md",
+      "folder": "1.Anatomy",
+      "modified": "2026-10-21T17:42:49",
+      "tags": []
+    },
+    {
+      "title": "4.腹部 app＆temp",
+      "path": "3.Reading/2.Speciality/4.腹部 app＆temp.md",
+      "folder": "3.Reading",
+      "modified": "2026-10-21T17:35:39",
+      "tags": []
+    },
+    {
+      "title": "腹痛の部位と疾患",
+      "path": "3.Reading/3.Reading_info/腹痛の部位と疾患.md",
+      "folder": "3.Reading",
+      "modified": "2026-10-21T17:33:48",
+      "tags": []
+    },
+    {
+      "title": "骨盤のリンパ節",
+      "path": "1.Anatomy/Ω_Anatomy_info/骨盤のリンパ節.md",
+      "folder": "1.Anatomy",
+      "modified": "2026-10-21T17:30:45",
+      "tags": []
+    },
+    {
+      "title": "2026-10-20",
+      "path": "ChatGPT/Log/2026-10-20.md",
+      "folder": "ChatGPT",
+      "modified": "2026-10-20T23:16:16",
+      "tags": []
+    },
+    {
+      "title": "2026-10-19",
+      "path": "ChatGPT/Log/2026-10-19.md",
+      "folder": "ChatGPT",
+      "modified": "2026-10-20T23:16:16",
+      "tags": []
+    },
+    {
+      "title": "Angio色々",
+      "path": "Technics/Angio/Angio色々.md",
+      "folder": "Technics",
+      "modified": "2026-10-18T10:44:24",
+      "tags": []
+    },
+    {
+      "title": "内陰部動脈",
+      "path": "ModInfo/内陰部動脈.md",
+      "folder": "ModInfo",
+      "modified": "2026-10-17T17:33:06",
+      "tags": []
+    },
+    {
+      "title": "子宮動脈の解剖",
+      "path": "ModInfo/子宮動脈の解剖.md",
+      "folder": "ModInfo",
+      "modified": "2026-10-17T17:15:21",
+      "tags": []
+    },
+    {
+      "title": "Case38_LCH_navi",
+      "path": "5.ModMaterial/Navigating/CTchest/Case38_LCH_navi.md",
+      "folder": "5.ModMaterial",
+      "modified": "2026-10-17T17:08:40",
+      "tags": [
+        "navigating"
+      ]
+    },
+    {
+      "title": "2026-10-17",
+      "path": "ChatGPT/Log/2026-10-17.md",
+      "folder": "ChatGPT",
+      "modified": "2026-10-17T17:08:04",
+      "tags": []
+    },
+    {
+      "title": "ハローサインの鑑別",
+      "path": "ModInfo/ハローサインの鑑別.md",
+      "folder": "ModInfo",
+      "modified": "2026-10-17T16:40:22",
+      "tags": []
+    },
+    {
+      "title": "静脈奇形、発達性脳静脈異常（DVA）",
+      "path": "ModInfo/静脈奇形、発達性脳静脈異常（DVA）.md",
+      "folder": "ModInfo",
+      "modified": "2026-10-17T02:01:22",
+      "tags": []
+    },
+    {
+      "title": "2026-10-17_脳静脈奇形",
+      "path": "💎 Pearls/2026-10-17_脳静脈奇形.md",
+      "folder": "💎 Pearls",
+      "modified": "2026-10-17T01:57:53",
+      "tags": []
+    },
+    {
+      "title": "1.頭部の疾患",
+      "path": "2.Disease/MoC_note/1.頭部の疾患.md",
+      "folder": "2.Disease",
+      "modified": "2026-10-17T01:52:20",
+      "tags": []
+    },
+    {
+      "title": "血管奇形まとめ_sdi",
+      "path": "ModInfo/血管奇形まとめ_sdi.md",
+      "folder": "ModInfo",
+      "modified": "2026-10-17T01:37:25",
+      "tags": []
+    },
+    {
+      "title": "Voice 関係整理",
+      "path": "Voice_input/Voice 関係整理.md",
+      "folder": "Voice_input",
+      "modified": "2026-10-17T01:25:59",
+      "tags": []
+    },
+    {
+      "title": "2026-10-16",
+      "path": "ChatGPT/Log/2026-10-16.md",
+      "folder": "ChatGPT",
+      "modified": "2026-10-17T00:49:50",
+      "tags": []
+    },
+    {
+      "title": "Case2_flash filling hemangioma_navi",
+      "path": "5.ModMaterial/Navigating/abdominal-MRI/Case2_flash filling hemangioma_navi.md",
+      "folder": "5.ModMaterial",
+      "modified": "2026-10-15T16:46:29",
+      "tags": []
+    },
+    {
+      "title": "14番染色体父性片親性ダイソミー(UPD14)_tkg",
+      "path": "5.ModMaterial/TKG/14番染色体父性片親性ダイソミー(UPD14)_tkg.md",
+      "folder": "5.ModMaterial",
+      "modified": "2026-10-15T13:36:37",
+      "tags": []
+    },
+    {
+      "title": "行を<>で囲って小文字_shiftcom,",
+      "path": "Templater/行を<>で囲って小文字_shiftcom,.md",
+      "folder": "Templater",
+      "modified": "2026-10-15T13:20:21",
+      "tags": []
+    },
+    {
+      "title": "胸壁のDon't touch lesion_tkg",
+      "path": "5.ModMaterial/TKG/胸壁のDon't touch lesion_tkg.md",
+      "folder": "5.ModMaterial",
+      "modified": "2026-10-15T13:19:55",
+      "tags": []
+    },
+    {
+      "title": "Carotid Web(CW)による脳梗塞_tkg",
+      "path": "5.ModMaterial/TKG/Carotid Web(CW)による脳梗塞_tkg.md",
+      "folder": "5.ModMaterial",
+      "modified": "2026-10-15T13:16:10",
+      "tags": []
+    },
+    {
+      "title": "リポイド肺炎",
+      "path": "ModInfo/リポイド肺炎.md",
+      "folder": "ModInfo",
+      "modified": "2026-10-15T13:13:19",
+      "tags": []
+    },
+    {
+      "title": "ごま油うがいによる外因性リポイド肺炎_tkg",
+      "path": "5.ModMaterial/TKG/ごま油うがいによる外因性リポイド肺炎_tkg.md",
+      "folder": "5.ModMaterial",
+      "modified": "2026-10-15T13:12:26",
+      "tags": []
+    },
+    {
+      "title": "2026-07-18",
+      "path": "4.Daily/Daily_DB/2026-07-18.md",
+      "folder": "4.Daily",
+      "modified": "2026-10-15T13:05:37",
+      "tags": []
+    },
+    {
+      "title": "3.胸部 app＆temp",
+      "path": "3.Reading/2.Speciality/3.胸部 app＆temp.md",
+      "folder": "3.Reading",
+      "modified": "2026-10-10T09:54:20",
+      "tags": []
+    },
+    {
+      "title": "呼吸器感染症の病変部位",
+      "path": "ModInfo/呼吸器感染症の病変部位.md",
+      "folder": "ModInfo",
+      "modified": "2026-10-10T09:50:47",
+      "tags": []
+    },
+    {
+      "title": "小葉の所見の分類",
+      "path": "3.Reading/3.Reading_info/小葉の所見の分類.md",
+      "folder": "3.Reading",
+      "modified": "2026-10-10T09:46:12",
+      "tags": []
+    },
+    {
+      "title": "2026-10-09",
+      "path": "ChatGPT/Log/2026-10-09.md",
+      "folder": "ChatGPT",
+      "modified": "2026-10-10T04:12:22",
+      "tags": []
+    },
+    {
+      "title": "胆管炎",
+      "path": "ModInfo/胆管炎.md",
+      "folder": "ModInfo",
+      "modified": "2026-10-09T22:36:46",
       "tags": []
     },
     {
       "title": "2026-07-17",
       "path": "4.Daily/Daily_DB/2026-07-17.md",
       "folder": "4.Daily",
-      "modified": "2026-10-09T15:26:51",
+      "modified": "2026-10-09T18:09:15",
+      "tags": []
+    },
+    {
+      "title": "肝硬変",
+      "path": "ModInfo/肝硬変.md",
+      "folder": "ModInfo",
+      "modified": "2026-10-09T18:08:15",
+      "tags": []
+    },
+    {
+      "title": "脂肪肝、肝硬変_temp",
+      "path": "ModInfo/脂肪肝、肝硬変_temp.md",
+      "folder": "ModInfo",
+      "modified": "2026-10-09T18:08:03",
       "tags": []
     },
     {
@@ -172,20 +461,6 @@
       "tags": []
     },
     {
-      "title": "Carotid Web(CW)による脳梗塞",
-      "path": "ModMaterial/TKG/Carotid Web(CW)による脳梗塞.md",
-      "folder": "ModMaterial",
-      "modified": "2026-10-08T16:14:11",
-      "tags": []
-    },
-    {
-      "title": "胸壁のDon't touch lesion",
-      "path": "ModMaterial/TKG/胸壁のDon't touch lesion.md",
-      "folder": "ModMaterial",
-      "modified": "2026-10-08T16:09:27",
-      "tags": []
-    },
-    {
       "title": "骨内骨腫、外骨腫_sdi",
       "path": "ModInfo/骨内骨腫、外骨腫_sdi.md",
       "folder": "ModInfo",
@@ -232,13 +507,6 @@
       "path": "ModInfo/肝血管腫（肝海綿状血管腫）.md",
       "folder": "ModInfo",
       "modified": "2026-10-08T13:40:35",
-      "tags": []
-    },
-    {
-      "title": "4.腹部 app＆temp",
-      "path": "3.Reading/2.Speciality/4.腹部 app＆temp.md",
-      "folder": "3.Reading",
-      "modified": "2026-10-08T13:38:36",
       "tags": []
     },
     {
@@ -299,8 +567,8 @@
     },
     {
       "title": "White matter buckling sign",
-      "path": "ModMaterial/徹頭徹尾/White matter buckling sign.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/徹頭徹尾/White matter buckling sign.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-10-04T20:31:34",
       "tags": []
     },
@@ -404,8 +672,8 @@
     },
     {
       "title": "Case1_hemangioma_navi",
-      "path": "ModMaterial/Navigating/abdominal-MRI/Case1_hemangioma_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/abdominal-MRI/Case1_hemangioma_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-09-28T00:03:50",
       "tags": []
     },
@@ -543,20 +811,6 @@
       "tags": []
     },
     {
-      "title": "5.骨盤の解剖_MoC",
-      "path": "1.Anatomy/MoC_notes/5.骨盤の解剖_MoC.md",
-      "folder": "1.Anatomy",
-      "modified": "2026-09-08T00:32:53",
-      "tags": []
-    },
-    {
-      "title": "脂肪肝_temp",
-      "path": "ModInfo/脂肪肝_temp.md",
-      "folder": "ModInfo",
-      "modified": "2026-09-07T01:25:54",
-      "tags": []
-    },
-    {
       "title": "7.その他",
       "path": "3.Reading/2.Speciality/7.その他.md",
       "folder": "3.Reading",
@@ -589,13 +843,6 @@
       "path": "ModInfo/鼻骨骨折_sdi.md",
       "folder": "ModInfo",
       "modified": "2026-09-06T18:28:53",
-      "tags": []
-    },
-    {
-      "title": "1.頭部の疾患",
-      "path": "2.Disease/MoC_note/1.頭部の疾患.md",
-      "folder": "2.Disease",
-      "modified": "2026-09-06T18:23:57",
       "tags": []
     },
     {
@@ -690,13 +937,6 @@
       "tags": []
     },
     {
-      "title": "Angio色々",
-      "path": "Technics/Angio/Angio色々.md",
-      "folder": "Technics",
-      "modified": "2026-09-04T19:49:19",
-      "tags": []
-    },
-    {
       "title": "Angio事項",
       "path": "Technics/Angio/Angio事項.md",
       "folder": "Technics",
@@ -736,13 +976,6 @@
       "path": "ChatGPT/Log/2026-09-01.md",
       "folder": "ChatGPT",
       "modified": "2026-09-01T18:17:01",
-      "tags": []
-    },
-    {
-      "title": "Voice 関係整理",
-      "path": "Voice_input/Voice 関係整理.md",
-      "folder": "Voice_input",
-      "modified": "2026-09-01T01:23:41",
       "tags": []
     },
     {
@@ -908,8 +1141,8 @@
     },
     {
       "title": "Case40_DIPNECH_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case40_DIPNECH_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case40_DIPNECH_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-08-23T12:54:27",
       "tags": [
         "navigating"
@@ -917,8 +1150,8 @@
     },
     {
       "title": "Case39_LAM_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case39_LAM_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case39_LAM_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-08-23T12:42:00",
       "tags": [
         "navigating"
@@ -932,15 +1165,6 @@
       "tags": []
     },
     {
-      "title": "Case38_LCH_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case38_LCH_navi.md",
-      "folder": "ModMaterial",
-      "modified": "2026-08-23T12:26:26",
-      "tags": [
-        "navigating"
-      ]
-    },
-    {
       "title": "ラングハンス巨細胞 ⇔ ランゲルハンス細胞",
       "path": "GMinfo/ラングハンス巨細胞 ⇔ ランゲルハンス細胞.md",
       "folder": "GMinfo",
@@ -949,8 +1173,8 @@
     },
     {
       "title": "Case37_HP_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case37_HP_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case37_HP_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-08-23T11:21:55",
       "tags": [
         "navigating"
@@ -965,8 +1189,8 @@
     },
     {
       "title": "Case36_AIP,ARDS_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case36_AIP,ARDS_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case36_AIP,ARDS_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-08-23T10:53:52",
       "tags": [
         "navigating"
@@ -995,8 +1219,8 @@
     },
     {
       "title": "側頭骨領域_JID_201707",
-      "path": "ModMaterial/JDI/側頭骨領域_JID_201707.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/JDI/側頭骨領域_JID_201707.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-08-19T12:34:50",
       "tags": []
     },
@@ -1030,8 +1254,8 @@
     },
     {
       "title": "急性腹症のCT演習_右下腹部痛_",
-      "path": "ModMaterial/急性腹症のCT演習/急性腹症のCT演習_右下腹部痛_.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/急性腹症のCT演習/急性腹症のCT演習_右下腹部痛_.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-08-16T19:20:59",
       "tags": []
     },
@@ -1127,13 +1351,6 @@
       "tags": []
     },
     {
-      "title": "発達性脳静脈異常（DVA）",
-      "path": "ModInfo/発達性脳静脈異常（DVA）.md",
-      "folder": "ModInfo",
-      "modified": "2026-08-16T17:02:02",
-      "tags": []
-    },
-    {
       "title": "海綿状血管腫・海綿状血管奇形（CCM,VM）",
       "path": "2.Disease/ΩDisease_info/海綿状血管腫・海綿状血管奇形（CCM,VM）.md",
       "folder": "2.Disease",
@@ -1163,15 +1380,15 @@
     },
     {
       "title": "CI 2017 must know",
-      "path": "ModMaterial/CI/CI 2017 must know.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/CI/CI 2017 must know.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-08-16T15:32:55",
       "tags": []
     },
     {
       "title": "Case35_LIP_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case35_LIP_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case35_LIP_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-08-16T12:46:10",
       "tags": [
         "navigating"
@@ -1186,8 +1403,8 @@
     },
     {
       "title": "Case34_DIP_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case34_DIP_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case34_DIP_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-08-16T12:02:51",
       "tags": [
         "navigating"
@@ -1216,24 +1433,17 @@
     },
     {
       "title": "Case33_RB-ILD_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case33_RB-ILD_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case33_RB-ILD_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-08-12T20:17:10",
       "tags": [
         "navigating"
       ]
     },
     {
-      "title": "3.胸部 app＆temp",
-      "path": "3.Reading/2.Speciality/3.胸部 app＆temp.md",
-      "folder": "3.Reading",
-      "modified": "2026-08-12T19:41:21",
-      "tags": []
-    },
-    {
       "title": "Case32_COP_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case32_COP_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case32_COP_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-08-12T19:18:44",
       "tags": [
         "navigating"
@@ -1290,8 +1500,8 @@
     },
     {
       "title": "JDI 202301ビギナーのための頭部画像診断",
-      "path": "ModMaterial/JDI/JDI 202301ビギナーのための頭部画像診断.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/JDI/JDI 202301ビギナーのための頭部画像診断.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-08-11T13:55:22",
       "tags": []
     },
@@ -1522,15 +1732,15 @@
     },
     {
       "title": "胸部勘ドコロ",
-      "path": "ModMaterial/胸部勘ドコロ/胸部勘ドコロ.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/胸部勘ドコロ/胸部勘ドコロ.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-08-02T13:11:00",
       "tags": []
     },
     {
       "title": "Case23_Aspergilloma_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case23_Aspergilloma_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case23_Aspergilloma_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-08-02T13:07:19",
       "tags": [
         "navigating"
@@ -1580,22 +1790,22 @@
     },
     {
       "title": "NEJM_MGH_202622",
-      "path": "ModMaterial/NEJM/NEJM_MGH_202622.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/NEJM/NEJM_MGH_202622.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-08-01T16:52:36",
       "tags": []
     },
     {
       "title": "2.頭部_基礎知識_CT読影レポ",
-      "path": "ModMaterial/読影レポート/2.頭部_基礎知識_CT読影レポ.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/読影レポート/2.頭部_基礎知識_CT読影レポ.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-07-29T19:14:23",
       "tags": []
     },
     {
       "title": "2.頭部_異常所見_CT読影レポ",
-      "path": "ModMaterial/読影レポート/2.頭部_異常所見_CT読影レポ.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/読影レポート/2.頭部_異常所見_CT読影レポ.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-07-29T19:09:12",
       "tags": []
     },
@@ -1671,8 +1881,8 @@
     },
     {
       "title": "NEJM_MGH_202621",
-      "path": "ModMaterial/NEJM/NEJM_MGH_202621.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/NEJM/NEJM_MGH_202621.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-07-25T11:21:42",
       "tags": []
     },
@@ -1734,8 +1944,8 @@
     },
     {
       "title": "CI 2026 画像診断レポート学",
-      "path": "ModMaterial/CI/CI 2026 画像診断レポート学.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/CI/CI 2026 画像診断レポート学.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-07-22T17:16:09",
       "tags": []
     },
@@ -1818,8 +2028,8 @@
     },
     {
       "title": "NEJM_MGH_202616",
-      "path": "ModMaterial/NEJM/NEJM_MGH_202616.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/NEJM/NEJM_MGH_202616.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-07-20T19:41:31",
       "tags": []
     },
@@ -1839,8 +2049,8 @@
     },
     {
       "title": "頭部画像診断をわかりやすく_まとめ",
-      "path": "ModMaterial/頭部画像診断をわかりやすく/頭部画像診断をわかりやすく_まとめ.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/頭部画像診断をわかりやすく/頭部画像診断をわかりやすく_まとめ.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-07-20T19:02:33",
       "tags": []
     },
@@ -1853,15 +2063,15 @@
     },
     {
       "title": "画像診断に絶対強くなる1",
-      "path": "ModMaterial/画像診断に絶対強くなる1.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/画像診断に絶対強くなる1.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-07-20T18:15:15",
       "tags": []
     },
     {
       "title": "02神経_03頭部外傷_JCR_2023",
-      "path": "ModMaterial/JCR/2023 JCR/02神経_03頭部外傷_JCR_2023.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/JCR/2023 JCR/02神経_03頭部外傷_JCR_2023.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-07-20T18:05:24",
       "tags": []
     },
@@ -1944,8 +2154,8 @@
     },
     {
       "title": "JDI 202605 ビギナーのための肝胆膵",
-      "path": "ModMaterial/JDI/JDI 202605 ビギナーのための肝胆膵.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/JDI/JDI 202605 ビギナーのための肝胆膵.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-07-20T14:52:46",
       "tags": []
     },
@@ -2147,8 +2357,8 @@
     },
     {
       "title": "NEJM_MGH_202617",
-      "path": "ModMaterial/NEJM/NEJM_MGH_202617.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/NEJM/NEJM_MGH_202617.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-07-19T12:59:44",
       "tags": []
     },
@@ -2168,8 +2378,8 @@
     },
     {
       "title": "NEJM_MGH_202619",
-      "path": "ModMaterial/NEJM/NEJM_MGH_202619.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/NEJM/NEJM_MGH_202619.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-07-12T13:51:05",
       "tags": []
     },
@@ -2182,8 +2392,8 @@
     },
     {
       "title": "Case31_NSIP_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case31_NSIP_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case31_NSIP_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-07-05T19:35:48",
       "tags": [
         "navigating"
@@ -2205,8 +2415,8 @@
     },
     {
       "title": "Case30_UIP_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case30_UIP_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case30_UIP_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-07-05T17:43:21",
       "tags": [
         "navigating"
@@ -2242,8 +2452,8 @@
     },
     {
       "title": "Case29_Esophageal Leak, Pneumomediastinum_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case29_Esophageal Leak, Pneumomediastinum_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case29_Esophageal Leak, Pneumomediastinum_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-06-28T15:01:48",
       "tags": [
         "navigating"
@@ -2251,8 +2461,8 @@
     },
     {
       "title": "Case28_Empyema Necessitans_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case28_Empyema Necessitans_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case28_Empyema Necessitans_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-06-28T14:31:44",
       "tags": [
         "navigating"
@@ -2267,8 +2477,8 @@
     },
     {
       "title": "Case27_Empyema_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case27_Empyema_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case27_Empyema_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-06-27T19:54:14",
       "tags": [
         "navigating"
@@ -2290,8 +2500,8 @@
     },
     {
       "title": "Case26_Classic lung cancer_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case26_Classic lung cancer_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case26_Classic lung cancer_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-06-27T19:34:30",
       "tags": [
         "navigating"
@@ -2306,8 +2516,8 @@
     },
     {
       "title": "Case25_Round Atelectasis_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case25_Round Atelectasis_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case25_Round Atelectasis_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-06-27T17:45:25",
       "tags": [
         "navigating"
@@ -2448,8 +2658,8 @@
     },
     {
       "title": "頭頸部_鉄則",
-      "path": "ModMaterial/鉄則/3.頭頸部/頭頸部_鉄則.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/鉄則/3.頭頸部/頭頸部_鉄則.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-06-27T12:56:53",
       "tags": []
     },
@@ -2490,8 +2700,8 @@
     },
     {
       "title": "Case24_Invasive Aspergillosis_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case24_Invasive Aspergillosis_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case24_Invasive Aspergillosis_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-06-24T13:04:48",
       "tags": [
         "navigating"
@@ -2513,8 +2723,8 @@
     },
     {
       "title": "Case6_PE_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case6_PE_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case6_PE_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-06-13T19:38:45",
       "tags": [
         "navigating"
@@ -2522,8 +2732,8 @@
     },
     {
       "title": "Case5_PE_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case5_PE_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case5_PE_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-06-13T19:38:31",
       "tags": [
         "navigating"
@@ -2531,8 +2741,8 @@
     },
     {
       "title": "Case4_PE_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case4_PE_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case4_PE_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-06-13T19:37:38",
       "tags": [
         "navigating"
@@ -2540,8 +2750,8 @@
     },
     {
       "title": "Case3_PE_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case3_PE_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case3_PE_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-06-13T19:36:58",
       "tags": [
         "navigating"
@@ -2549,8 +2759,8 @@
     },
     {
       "title": "Case2_PE_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case2_PE_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case2_PE_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-06-13T19:36:33",
       "tags": []
     },
@@ -2738,8 +2948,8 @@
     },
     {
       "title": "Case22_Septic emboli_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case22_Septic emboli_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case22_Septic emboli_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-06-13T12:36:11",
       "tags": [
         "navigating"
@@ -2817,15 +3027,15 @@
     },
     {
       "title": "CI 202303 副鼻腔",
-      "path": "ModMaterial/CI/CI 202303 副鼻腔.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/CI/CI 202303 副鼻腔.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-06-03T16:53:58",
       "tags": []
     },
     {
       "title": "JDI 2020 ビギナーのための頭頸部",
-      "path": "ModMaterial/JDI/JDI 2020 ビギナーのための頭頸部.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/JDI/JDI 2020 ビギナーのための頭頸部.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-06-03T16:44:08",
       "tags": []
     },
@@ -2894,8 +3104,8 @@
     },
     {
       "title": "Case15_Pulmonary Edema_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case15_Pulmonary Edema_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case15_Pulmonary Edema_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-05-30T14:34:53",
       "tags": [
         "navigating"
@@ -2910,8 +3120,8 @@
     },
     {
       "title": "Case21_TB(post primary)_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case21_TB(post primary)_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case21_TB(post primary)_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-05-30T10:09:13",
       "tags": [
         "navigating"
@@ -2919,8 +3129,8 @@
     },
     {
       "title": "レジデントのための胸部画像教室",
-      "path": "ModMaterial/胸部Xp/レジデントのための胸部画像教室.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/胸部Xp/レジデントのための胸部画像教室.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-05-27T19:52:59",
       "tags": []
     },
@@ -2977,13 +3187,6 @@
       "title": "肺野HRCT 解体新書",
       "path": "ModInfo/肺野HRCT 解体新書.md",
       "folder": "ModInfo",
-      "modified": "2026-05-17T19:37:30",
-      "tags": []
-    },
-    {
-      "title": "3.胸部の解剖_MoC",
-      "path": "1.Anatomy/MoC_notes/3.胸部の解剖_MoC.md",
-      "folder": "1.Anatomy",
       "modified": "2026-05-17T19:37:30",
       "tags": []
     },
@@ -3094,8 +3297,8 @@
     },
     {
       "title": "胸部画像の見かた考え方",
-      "path": "ModMaterial/胸部Xp/胸部画像の見かた考え方.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/胸部Xp/胸部画像の見かた考え方.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-05-15T22:40:49",
       "tags": []
     },
@@ -3185,8 +3388,8 @@
     },
     {
       "title": "画像診断のツボ",
-      "path": "ModMaterial/画像診断のツボ.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/画像診断のツボ.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-05-06T18:43:38",
       "tags": []
     },
@@ -3219,16 +3422,16 @@
       "tags": []
     },
     {
-      "title": "胸部の鑑別",
-      "path": "ModMoC/5.DD List→interpretationに？/胸部の鑑別.md",
-      "folder": "ModMoC",
+      "title": "NSIP",
+      "path": "2.Disease/ΩDisease_info/NSIP.md",
+      "folder": "2.Disease",
       "modified": "2026-05-06T17:30:10",
       "tags": []
     },
     {
-      "title": "NSIP",
-      "path": "2.Disease/ΩDisease_info/NSIP.md",
-      "folder": "2.Disease",
+      "title": "胸部の鑑別",
+      "path": "ModMoC編集中/5.DD List→interpretationに？/胸部の鑑別.md",
+      "folder": "ModMoC編集中",
       "modified": "2026-05-06T17:30:10",
       "tags": []
     },
@@ -3395,8 +3598,8 @@
     },
     {
       "title": "Case20_Random nodules (miliary TB)_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case20_Random nodules (miliary TB)_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case20_Random nodules (miliary TB)_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-05-03T18:22:30",
       "tags": [
         "navigating"
@@ -3404,8 +3607,8 @@
     },
     {
       "title": "Case19_Perilymphatic nodules (sarcoid)_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case19_Perilymphatic nodules (sarcoid)_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case19_Perilymphatic nodules (sarcoid)_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-05-03T16:43:47",
       "tags": [
         "navigating"
@@ -3413,8 +3616,8 @@
     },
     {
       "title": "Case18_Centrilobular and tree-in-bud nodules (infection)_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case18_Centrilobular and tree-in-bud nodules (infection)_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case18_Centrilobular and tree-in-bud nodules (infection)_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-05-03T16:29:27",
       "tags": [
         "navigating"
@@ -3527,8 +3730,8 @@
     },
     {
       "title": "Case17_Crazy Paving PAP_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case17_Crazy Paving PAP_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case17_Crazy Paving PAP_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-04-25T12:29:49",
       "tags": [
         "navigating"
@@ -3536,8 +3739,8 @@
     },
     {
       "title": "Case16_Nodular septal thickening - Lymphangitic Carcinomatosis_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case16_Nodular septal thickening - Lymphangitic Carcinomatosis_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case16_Nodular septal thickening - Lymphangitic Carcinomatosis_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-04-22T19:21:38",
       "tags": [
         "navigating"
@@ -3545,8 +3748,8 @@
     },
     {
       "title": "Case11_Consolidation-infection_navi 1",
-      "path": "ModMaterial/Navigating/CTchest/Case11_Consolidation-infection_navi 1.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case11_Consolidation-infection_navi 1.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-04-22T19:02:27",
       "tags": [
         "navigating"
@@ -3708,8 +3911,8 @@
     },
     {
       "title": "Case14_Lipoid pneumonia _navi",
-      "path": "ModMaterial/Navigating/CTchest/Case14_Lipoid pneumonia _navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case14_Lipoid pneumonia _navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-04-04T19:44:45",
       "tags": [
         "navigating"
@@ -3717,8 +3920,8 @@
     },
     {
       "title": "Case13_Atelectasis_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case13_Atelectasis_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case13_Atelectasis_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-04-04T18:04:26",
       "tags": [
         "navigating"
@@ -3726,8 +3929,8 @@
     },
     {
       "title": "妊婦",
-      "path": "ModMoC/Inspection/CT_Inspection/妊婦.md",
-      "folder": "ModMoC",
+      "path": "ModMoC編集中/Inspection/CT_Inspection/妊婦.md",
+      "folder": "ModMoC編集中",
       "modified": "2026-04-04T17:21:17",
       "tags": []
     },
@@ -3740,16 +3943,9 @@
     },
     {
       "title": "3.Principles of MRI sequence",
-      "path": "ModMoC/Basic/3.Principles of MRI sequence.md",
-      "folder": "ModMoC",
+      "path": "ModMoC編集中/Basic/3.Principles of MRI sequence.md",
+      "folder": "ModMoC編集中",
       "modified": "2026-04-04T12:45:00",
-      "tags": []
-    },
-    {
-      "title": "行を<>で囲って小文字_shiftcom,",
-      "path": "Templater/行を<>で囲って小文字_shiftcom,.md",
-      "folder": "Templater",
-      "modified": "2026-04-04T12:44:46",
       "tags": []
     },
     {
@@ -3768,15 +3964,15 @@
     },
     {
       "title": "template_med",
-      "path": "Voice_input/template_med.md",
+      "path": "Voice_input/0.template/template_med.md",
       "folder": "Voice_input",
       "modified": "2026-04-01T20:08:58",
       "tags": []
     },
     {
       "title": "Case12_PCP(PJP)_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case12_PCP(PJP)_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case12_PCP(PJP)_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-04-01T17:26:22",
       "tags": [
         "navigating"
@@ -3805,8 +4001,8 @@
     },
     {
       "title": "Case9_Acute pericarditis_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case9_Acute pericarditis_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case9_Acute pericarditis_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-03-27T12:38:40",
       "tags": [
         "navigating"
@@ -3814,8 +4010,8 @@
     },
     {
       "title": "Case10_SCV syndrome_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case10_SCV syndrome_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case10_SCV syndrome_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-03-27T12:31:52",
       "tags": [
         "navigating"
@@ -3823,8 +4019,8 @@
     },
     {
       "title": "Case8_dissection_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case8_dissection_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case8_dissection_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-03-25T19:28:17",
       "tags": [
         "navigating"
@@ -3846,8 +4042,8 @@
     },
     {
       "title": "Case0_abdominalMRI_navi",
-      "path": "ModMaterial/Navigating/abdominal-MRI/Case0_abdominalMRI_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/abdominal-MRI/Case0_abdominalMRI_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-03-24T19:51:18",
       "tags": [
         "navigating"
@@ -3855,8 +4051,8 @@
     },
     {
       "title": "Case7_dissection_navi",
-      "path": "ModMaterial/Navigating/CTchest/Case7_dissection_navi.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Navigating/CTchest/Case7_dissection_navi.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-03-21T19:15:08",
       "tags": [
         "navigating"
@@ -3920,15 +4116,15 @@
     },
     {
       "title": "01診断学総論_JCR",
-      "path": "ModMaterial/JCR/2025 resi/01診断学総論_JCR.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/JCR/2025 resi/01診断学総論_JCR.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-03-18T09:29:10",
       "tags": []
     },
     {
       "title": "07腹部_03胆嚢胆道_JCR",
-      "path": "ModMaterial/JCR/2023 JCR/07腹部_03胆嚢胆道_JCR.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/JCR/2023 JCR/07腹部_03胆嚢胆道_JCR.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-03-18T09:22:23",
       "tags": []
     },
@@ -3964,8 +4160,8 @@
     },
     {
       "title": "06心血管_01総論・解剖_JCR_2023",
-      "path": "ModMaterial/JCR/2023 JCR/06心血管_01総論・解剖_JCR_2023.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/JCR/2023 JCR/06心血管_01総論・解剖_JCR_2023.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-03-14T17:47:47",
       "tags": []
     },
@@ -3992,8 +4188,8 @@
     },
     {
       "title": "07腹部_02肝臓＋脾_JCR",
-      "path": "ModMaterial/JCR/2023 JCR/07腹部_02肝臓＋脾_JCR.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/JCR/2023 JCR/07腹部_02肝臓＋脾_JCR.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-03-13T07:28:48",
       "tags": []
     },
@@ -4006,8 +4202,8 @@
     },
     {
       "title": "07腹部_01肝の先天奇形_JCR_2023",
-      "path": "ModMaterial/JCR/2023 JCR/07腹部_01肝の先天奇形_JCR_2023.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/JCR/2023 JCR/07腹部_01肝の先天奇形_JCR_2023.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-03-11T08:07:53",
       "tags": []
     },
@@ -4069,8 +4265,8 @@
     },
     {
       "title": "06心血管_02冠動脈疾患_JCR_2023",
-      "path": "ModMaterial/JCR/2023 JCR/06心血管_02冠動脈疾患_JCR_2023.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/JCR/2023 JCR/06心血管_02冠動脈疾患_JCR_2023.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-03-04T08:11:19",
       "tags": []
     },
@@ -4083,8 +4279,8 @@
     },
     {
       "title": "胸部_03縦隔腫瘍_JCR_2023",
-      "path": "ModMaterial/JCR/2023 JCR/胸部_03縦隔腫瘍_JCR_2023.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/JCR/2023 JCR/胸部_03縦隔腫瘍_JCR_2023.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-02-24T07:20:42",
       "tags": []
     },
@@ -4097,8 +4293,8 @@
     },
     {
       "title": "胸部_02腫瘍_JCR_2023",
-      "path": "ModMaterial/JCR/2023 JCR/胸部_02腫瘍_JCR_2023.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/JCR/2023 JCR/胸部_02腫瘍_JCR_2023.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-02-18T17:32:02",
       "tags": []
     },
@@ -4153,8 +4349,8 @@
     },
     {
       "title": "胸部勘ドコロ_no_image_link",
-      "path": "ModMaterial/胸部勘ドコロ/胸部勘ドコロ_no_image_link.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/胸部勘ドコロ/胸部勘ドコロ_no_image_link.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-02-14T18:13:40",
       "tags": []
     },
@@ -4356,8 +4552,8 @@
     },
     {
       "title": "Appearances & Expression",
-      "path": "ModMoC/4.Findings/Appearances & Expression.md",
-      "folder": "ModMoC",
+      "path": "ModMoC編集中/4.Findings/Appearances & Expression.md",
+      "folder": "ModMoC編集中",
       "modified": "2026-01-23T23:57:21",
       "tags": []
     },
@@ -6162,8 +6358,8 @@
     },
     {
       "title": "胸部_01マクロ解剖_JCR_2023",
-      "path": "ModMaterial/JCR/2023 JCR/胸部_01マクロ解剖_JCR_2023.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/JCR/2023 JCR/胸部_01マクロ解剖_JCR_2023.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-01-17T13:10:49",
       "tags": []
     },
@@ -6190,8 +6386,8 @@
     },
     {
       "title": "頭頸部_03側頭骨_JCR_2023",
-      "path": "ModMaterial/JCR/2023 JCR/頭頸部_03側頭骨_JCR_2023.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/JCR/2023 JCR/頭頸部_03側頭骨_JCR_2023.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-01-14T20:08:46",
       "tags": []
     },
@@ -6232,15 +6428,15 @@
     },
     {
       "title": "頭頸部_02甲状腺_JCR_2023",
-      "path": "ModMaterial/JCR/2023 JCR/頭頸部_02甲状腺_JCR_2023.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/JCR/2023 JCR/頭頸部_02甲状腺_JCR_2023.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-01-07T07:05:08",
       "tags": []
     },
     {
       "title": "頭頸部_02甲状腺_JCR",
-      "path": "ModMaterial/JCR/2023 JCR/頭頸部_02甲状腺_JCR.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/JCR/2023 JCR/頭頸部_02甲状腺_JCR.md",
+      "folder": "5.ModMaterial",
       "modified": "2026-01-07T07:05:08",
       "tags": []
     },
@@ -6288,8 +6484,8 @@
     },
     {
       "title": "頭頸部_01解剖_JCR_2023",
-      "path": "ModMaterial/JCR/2023 JCR/頭頸部_01解剖_JCR_2023.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/JCR/2023 JCR/頭頸部_01解剖_JCR_2023.md",
+      "folder": "5.ModMaterial",
       "modified": "2025-12-30T18:31:23",
       "tags": []
     },
@@ -6302,8 +6498,8 @@
     },
     {
       "title": "脊髄_02脊椎腫瘍_JCR_2023",
-      "path": "ModMaterial/JCR/2023 JCR/脊髄_02脊椎腫瘍_JCR_2023.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/JCR/2023 JCR/脊髄_02脊椎腫瘍_JCR_2023.md",
+      "folder": "5.ModMaterial",
       "modified": "2025-12-30T00:39:01",
       "tags": []
     },
@@ -6386,8 +6582,8 @@
     },
     {
       "title": "脊椎_01解剖_JCR_2023",
-      "path": "ModMaterial/JCR/2023 JCR/脊椎_01解剖_JCR_2023.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/JCR/2023 JCR/脊椎_01解剖_JCR_2023.md",
+      "folder": "5.ModMaterial",
       "modified": "2025-12-24T07:48:27",
       "tags": []
     },
@@ -6414,8 +6610,8 @@
     },
     {
       "title": "骨軟部_鉄則",
-      "path": "ModMaterial/鉄則/10.骨軟部/骨軟部_鉄則.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/鉄則/10.骨軟部/骨軟部_鉄則.md",
+      "folder": "5.ModMaterial",
       "modified": "2025-12-13T19:20:24",
       "tags": []
     },
@@ -6512,8 +6708,8 @@
     },
     {
       "title": "02神経_02脳血管_JCR_2023",
-      "path": "ModMaterial/JCR/2023 JCR/02神経_02脳血管_JCR_2023.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/JCR/2023 JCR/02神経_02脳血管_JCR_2023.md",
+      "folder": "5.ModMaterial",
       "modified": "2025-12-12T18:07:17",
       "tags": []
     },
@@ -6533,8 +6729,8 @@
     },
     {
       "title": "02神経_01解剖_JCR_2023",
-      "path": "ModMaterial/JCR/2023 JCR/02神経_01解剖_JCR_2023.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/JCR/2023 JCR/02神経_01解剖_JCR_2023.md",
+      "folder": "5.ModMaterial",
       "modified": "2025-12-11T07:44:49",
       "tags": []
     },
@@ -6582,8 +6778,8 @@
     },
     {
       "title": "4.腎泌尿器_腹部連想",
-      "path": "ModMaterial/腹部連想画像診断/2.実践応用編/4.腎泌尿器_腹部連想.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/腹部連想画像診断/2.実践応用編/4.腎泌尿器_腹部連想.md",
+      "folder": "5.ModMaterial",
       "modified": "2025-12-06T18:36:12",
       "tags": []
     },
@@ -6645,8 +6841,8 @@
     },
     {
       "title": "薬師寺セミナー 20251128",
-      "path": "ModMaterial/Seminar/薬師寺セミナー 20251128.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Seminar/薬師寺セミナー 20251128.md",
+      "folder": "5.ModMaterial",
       "modified": "2025-11-28T18:52:45",
       "tags": []
     },
@@ -6799,15 +6995,15 @@
     },
     {
       "title": "2.MRI's features",
-      "path": "ModMoC/Basic/2.MRI's features.md",
-      "folder": "ModMoC",
+      "path": "ModMoC編集中/Basic/2.MRI's features.md",
+      "folder": "ModMoC編集中",
       "modified": "2025-11-10T18:26:39",
       "tags": []
     },
     {
       "title": "3.胸部 expression",
-      "path": "ModMoC/6.Report/2.Individual-雑多に/3.胸部 expression.md",
-      "folder": "ModMoC",
+      "path": "ModMoC編集中/6.Report/2.Individual-雑多に/3.胸部 expression.md",
+      "folder": "ModMoC編集中",
       "modified": "2025-11-09T23:21:02",
       "tags": []
     },
@@ -6820,8 +7016,8 @@
     },
     {
       "title": "1.CT's features",
-      "path": "ModMoC/Basic/1.CT's features.md",
-      "folder": "ModMoC",
+      "path": "ModMoC編集中/Basic/1.CT's features.md",
+      "folder": "ModMoC編集中",
       "modified": "2025-11-09T16:43:27",
       "tags": []
     },
@@ -6855,8 +7051,8 @@
     },
     {
       "title": "相模原セミナー2",
-      "path": "ModMaterial/Seminar/相模原セミナー2.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Seminar/相模原セミナー2.md",
+      "folder": "5.ModMaterial",
       "modified": "2025-11-07T18:56:31",
       "tags": []
     },
@@ -6904,8 +7100,8 @@
     },
     {
       "title": "JDI 2025 ビギナーのための胸部画像診断",
-      "path": "ModMaterial/JDI/JDI 2025 ビギナーのための胸部画像診断.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/JDI/JDI 2025 ビギナーのための胸部画像診断.md",
+      "folder": "5.ModMaterial",
       "modified": "2025-11-02T00:58:34",
       "tags": []
     },
@@ -6960,8 +7156,8 @@
     },
     {
       "title": "ガドリニウム",
-      "path": "ModMoC/Inspection/MRI_Inspection/ガドリニウム.md",
-      "folder": "ModMoC",
+      "path": "ModMoC編集中/Inspection/MRI_Inspection/ガドリニウム.md",
+      "folder": "ModMoC編集中",
       "modified": "2025-10-04T20:51:40",
       "tags": []
     },
@@ -7114,8 +7310,8 @@
     },
     {
       "title": "腎_鉄則",
-      "path": "ModMaterial/鉄則/8.泌尿器/腎_鉄則.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/鉄則/8.泌尿器/腎_鉄則.md",
+      "folder": "5.ModMaterial",
       "modified": "2025-09-18T11:40:33",
       "tags": []
     },
@@ -7163,8 +7359,8 @@
     },
     {
       "title": "画像診断総論_鉄則",
-      "path": "ModMaterial/鉄則/1.画像診断総論/画像診断総論_鉄則.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/鉄則/1.画像診断総論/画像診断総論_鉄則.md",
+      "folder": "5.ModMaterial",
       "modified": "2025-09-10T00:02:23",
       "tags": []
     },
@@ -7205,15 +7401,15 @@
     },
     {
       "title": "JDI 2017 知っておきたい泌尿器",
-      "path": "ModMaterial/JDI/JDI 2017 知っておきたい泌尿器.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/JDI/JDI 2017 知っておきたい泌尿器.md",
+      "folder": "5.ModMaterial",
       "modified": "2025-09-08T23:59:32",
       "tags": []
     },
     {
       "title": "Expression",
-      "path": "ModMoC/6.Report/Expression.md",
-      "folder": "ModMoC",
+      "path": "ModMoC編集中/6.Report/Expression.md",
+      "folder": "ModMoC編集中",
       "modified": "2025-09-07T18:19:38",
       "tags": []
     },
@@ -7233,8 +7429,8 @@
     },
     {
       "title": "4.Medical terms",
-      "path": "ModMoC/Basic/4.Medical terms.md",
-      "folder": "ModMoC",
+      "path": "ModMoC編集中/Basic/4.Medical terms.md",
+      "folder": "ModMoC編集中",
       "modified": "2025-09-07T11:58:57",
       "tags": []
     },
@@ -7247,8 +7443,8 @@
     },
     {
       "title": "5.泌尿生殖器_CT読影レポ",
-      "path": "ModMaterial/読影レポート/5.泌尿生殖器_CT読影レポ.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/読影レポート/5.泌尿生殖器_CT読影レポ.md",
+      "folder": "5.ModMaterial",
       "modified": "2025-09-03T00:36:09",
       "tags": []
     },
@@ -7401,15 +7597,15 @@
     },
     {
       "title": "甲状腺とヨード",
-      "path": "ModMoC/Inspection/CT_Inspection/甲状腺とヨード.md",
-      "folder": "ModMoC",
+      "path": "ModMoC編集中/Inspection/CT_Inspection/甲状腺とヨード.md",
+      "folder": "ModMoC編集中",
       "modified": "2025-08-22T18:36:44",
       "tags": []
     },
     {
       "title": "MRCP_inspection",
-      "path": "ModMoC/Inspection/MRI_Inspection/MRCP_inspection.md",
-      "folder": "ModMoC",
+      "path": "ModMoC編集中/Inspection/MRI_Inspection/MRCP_inspection.md",
+      "folder": "ModMoC編集中",
       "modified": "2025-08-22T18:20:21",
       "tags": []
     },
@@ -7478,8 +7674,8 @@
     },
     {
       "title": "3.肝臓胆嚢_腹部連想",
-      "path": "ModMaterial/腹部連想画像診断/2.実践応用編/3.肝臓胆嚢_腹部連想.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/腹部連想画像診断/2.実践応用編/3.肝臓胆嚢_腹部連想.md",
+      "folder": "5.ModMaterial",
       "modified": "2025-08-14T22:28:25",
       "tags": []
     },
@@ -7513,8 +7709,8 @@
     },
     {
       "title": "腹部の鑑別",
-      "path": "ModMoC/5.DD List→interpretationに？/腹部の鑑別.md",
-      "folder": "ModMoC",
+      "path": "ModMoC編集中/5.DD List→interpretationに？/腹部の鑑別.md",
+      "folder": "ModMoC編集中",
       "modified": "2025-08-11T16:57:28",
       "tags": []
     },
@@ -7534,8 +7730,8 @@
     },
     {
       "title": "Case List",
-      "path": "ModMaterial/Furuta_blog/Case List.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Furuta_blog/Case List.md",
+      "folder": "5.ModMaterial",
       "modified": "2025-08-09T19:45:08",
       "tags": []
     },
@@ -7562,8 +7758,8 @@
     },
     {
       "title": "相模原セミナー",
-      "path": "ModMaterial/Seminar/相模原セミナー.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/Seminar/相模原セミナー.md",
+      "folder": "5.ModMaterial",
       "modified": "2025-08-07T19:00:27",
       "tags": []
     },
@@ -7709,8 +7905,8 @@
     },
     {
       "title": "CI 2018 MRI画像診断",
-      "path": "ModMaterial/CI/CI 2018 MRI画像診断.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/CI/CI 2018 MRI画像診断.md",
+      "folder": "5.ModMaterial",
       "modified": "2025-07-29T12:11:45",
       "tags": []
     },
@@ -7737,15 +7933,15 @@
     },
     {
       "title": "2.消化管_腹部連想",
-      "path": "ModMaterial/腹部連想画像診断/2.実践応用編/2.消化管_腹部連想.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/腹部連想画像診断/2.実践応用編/2.消化管_腹部連想.md",
+      "folder": "5.ModMaterial",
       "modified": "2025-07-26T19:36:58",
       "tags": []
     },
     {
       "title": "1.腹部_腹部連想",
-      "path": "ModMaterial/腹部連想画像診断/2.実践応用編/1.腹部_腹部連想.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/腹部連想画像診断/2.実践応用編/1.腹部_腹部連想.md",
+      "folder": "5.ModMaterial",
       "modified": "2025-07-26T19:11:42",
       "tags": []
     },
@@ -7898,8 +8094,8 @@
     },
     {
       "title": "1.基礎知識_CT読影レポ",
-      "path": "ModMaterial/読影レポート/1.基礎知識_CT読影レポ.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/読影レポート/1.基礎知識_CT読影レポ.md",
+      "folder": "5.ModMaterial",
       "modified": "2025-07-14T09:04:23",
       "tags": []
     },
@@ -7961,22 +8157,22 @@
     },
     {
       "title": "3.MRI_腹部連想",
-      "path": "ModMaterial/腹部連想画像診断/1.実践基礎編/3.MRI_腹部連想.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/腹部連想画像診断/1.実践基礎編/3.MRI_腹部連想.md",
+      "folder": "5.ModMaterial",
       "modified": "2025-07-07T23:02:29",
       "tags": []
     },
     {
       "title": "2.CT_腹部連想",
-      "path": "ModMaterial/腹部連想画像診断/1.実践基礎編/2.CT_腹部連想.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/腹部連想画像診断/1.実践基礎編/2.CT_腹部連想.md",
+      "folder": "5.ModMaterial",
       "modified": "2025-07-07T22:23:03",
       "tags": []
     },
     {
       "title": "1.画像の基本_腹部連想",
-      "path": "ModMaterial/腹部連想画像診断/1.実践基礎編/1.画像の基本_腹部連想.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/腹部連想画像診断/1.実践基礎編/1.画像の基本_腹部連想.md",
+      "folder": "5.ModMaterial",
       "modified": "2025-07-06T17:35:10",
       "tags": []
     },
@@ -8052,8 +8248,8 @@
     },
     {
       "title": "Normal Physiological Findings（→anatomyに統合？）",
-      "path": "ModMoC/4.Findings/Normal Physiological Findings（→anatomyに統合？）.md",
-      "folder": "ModMoC",
+      "path": "ModMoC編集中/4.Findings/Normal Physiological Findings（→anatomyに統合？）.md",
+      "folder": "ModMoC編集中",
       "modified": "2025-06-22T14:34:41",
       "tags": []
     },
@@ -8871,8 +9067,8 @@
     },
     {
       "title": "救急頭部CT読影の鉄則",
-      "path": "ModMaterial/救急頭部CT読影の鉄則.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/救急頭部CT読影の鉄則.md",
+      "folder": "5.ModMaterial",
       "modified": "2025-03-09T18:43:51",
       "tags": []
     },
@@ -9389,8 +9585,8 @@
     },
     {
       "title": "JDI シリーズその他",
-      "path": "ModMaterial/JDI/JDI シリーズその他.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/JDI/JDI シリーズその他.md",
+      "folder": "5.ModMaterial",
       "modified": "2025-02-13T21:25:00",
       "tags": []
     },
@@ -9599,8 +9795,8 @@
     },
     {
       "title": "解体新書",
-      "path": "ModMaterial/解体新書.md",
-      "folder": "ModMaterial",
+      "path": "5.ModMaterial/解体新書.md",
+      "folder": "5.ModMaterial",
       "modified": "2025-02-08T15:23:40",
       "tags": []
     },
@@ -9655,8 +9851,8 @@
     },
     {
       "title": "Protocol",
-      "path": "ModMoC/Basic/Protocol.md",
-      "folder": "ModMoC",
+      "path": "ModMoC編集中/Basic/Protocol.md",
+      "folder": "ModMoC編集中",
       "modified": "2025-02-07T00:34:40",
       "tags": []
     },
@@ -10596,13 +10792,6 @@
       "path": "ModInfo/屈筋腱・伸筋腱.md",
       "folder": "ModInfo",
       "modified": "2025-01-05T15:52:36",
-      "tags": []
-    },
-    {
-      "title": "胆管炎",
-      "path": "ModInfo/胆管炎.md",
-      "folder": "ModInfo",
-      "modified": "2025-01-05T15:21:48",
       "tags": []
     },
     {
@@ -12392,16 +12581,9 @@
     },
     {
       "title": "尿路結石の位置",
-      "path": "ModInfo/尿路結石の位置.md",
-      "folder": "ModInfo",
+      "path": "1.Anatomy/Ω_Anatomy_info/尿路結石の位置.md",
+      "folder": "1.Anatomy",
       "modified": "2024-08-21T18:37:54",
-      "tags": []
-    },
-    {
-      "title": "乳腺のリンパ節",
-      "path": "ModInfo/乳腺のリンパ節.md",
-      "folder": "ModInfo",
-      "modified": "2024-08-21T18:36:19",
       "tags": []
     },
     {
@@ -12426,13 +12608,6 @@
       "tags": []
     },
     {
-      "title": "腹痛の部位と疾患",
-      "path": "ModInfo/腹痛の部位と疾患.md",
-      "folder": "ModInfo",
-      "modified": "2024-08-14T23:27:02",
-      "tags": []
-    },
-    {
       "title": "便秘薬・下剤の使い分け",
       "path": "ModInfo/便秘薬・下剤の使い分け.md",
       "folder": "ModInfo",
@@ -12444,27 +12619,6 @@
       "path": "ModInfo/糖尿病薬.md",
       "folder": "ModInfo",
       "modified": "2024-08-10T14:29:44",
-      "tags": []
-    },
-    {
-      "title": "骨盤のリンパ節",
-      "path": "ModInfo/骨盤のリンパ節.md",
-      "folder": "ModInfo",
-      "modified": "2024-08-10T14:24:03",
-      "tags": []
-    },
-    {
-      "title": "子宮動脈の解剖",
-      "path": "ModInfo/子宮動脈の解剖.md",
-      "folder": "ModInfo",
-      "modified": "2024-08-10T14:21:14",
-      "tags": []
-    },
-    {
-      "title": "内陰部動脈の走行",
-      "path": "ModInfo/内陰部動脈の走行.md",
-      "folder": "ModInfo",
-      "modified": "2024-08-10T14:18:51",
       "tags": []
     },
     {
@@ -12490,16 +12644,9 @@
     },
     {
       "title": "肺炎の病態",
-      "path": "ModInfo/肺炎の病態.md",
-      "folder": "ModInfo",
+      "path": "Pathology/肺炎の病態.md",
+      "folder": "Pathology",
       "modified": "2024-08-10T13:55:28",
-      "tags": []
-    },
-    {
-      "title": "呼吸器感染症の病変部位",
-      "path": "ModInfo/呼吸器感染症の病変部位.md",
-      "folder": "ModInfo",
-      "modified": "2024-08-10T13:52:59",
       "tags": []
     },
     {
@@ -12515,13 +12662,6 @@
       "folder": "ModInfo",
       "modified": "2024-08-07T22:53:22",
       "tags": []
-    },
-    {
-      "title": "小葉の所見の分類",
-      "path": "ModInfo/小葉の所見の分類.md",
-      "folder": "ModInfo",
-      "modified": "2024-08-07T22:53:21",
-      "tags": []
     }
   ],
   "lessons_cautions": [
@@ -12536,6 +12676,18 @@
       "type": "Cautions",
       "text": "",
       "path": "4.Daily/Daily_DB/2026-08-02.md"
+    },
+    {
+      "date": "2026-07-18",
+      "type": "Lessons",
+      "text": "膀胱壁の厚さの基準、拡張時は3mm以下が普通、虚脱時は5mmまで許容",
+      "path": "4.Daily/Daily_DB/2026-07-18.md"
+    },
+    {
+      "date": "2026-07-18",
+      "type": "Lessons",
+      "text": "軟部影、軟部陰影、軟部組織濃度 どれでも",
+      "path": "4.Daily/Daily_DB/2026-07-18.md"
     },
     {
       "date": "2026-07-17",
@@ -12607,6 +12759,18 @@
       "date": "2026-07-17",
       "type": "Cautions",
       "text": "肝腎シャント見逃し",
+      "path": "4.Daily/Daily_DB/2026-07-17.md"
+    },
+    {
+      "date": "2026-07-17",
+      "type": "Lessons",
+      "text": "LCパターンとはS23↑,S1↑,S4↓,右葉↓",
+      "path": "4.Daily/Daily_DB/2026-07-17.md"
+    },
+    {
+      "date": "2026-07-17",
+      "type": "Lessons",
+      "text": "胆管炎は造影早期斑、平衡で戻る。あと胆管拡張、胆管壁肥厚・造影効果ぐらい。",
       "path": "4.Daily/Daily_DB/2026-07-17.md"
     },
     {
