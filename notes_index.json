@@ -1,8 +1,141 @@
 {
-  "generated": "2026-11-01T13:27:25",
+  "generated": "2026-11-03T20:57:17",
   "vault": "Med",
-  "count": 1796,
+  "count": 1800,
   "notes": [
+    {
+      "title": "2026-11-02",
+      "path": "ChatGPT/Log/2026-11-02.md",
+      "folder": "ChatGPT",
+      "modified": "2026-11-03T06:19:56",
+      "tags": []
+    },
+    {
+      "title": "2026-10-23",
+      "path": "ChatGPT/Log/2026-10-23.md",
+      "folder": "ChatGPT",
+      "modified": "2026-11-01T17:05:08",
+      "tags": []
+    },
+    {
+      "title": "2026-10-26",
+      "path": "ChatGPT/Log/2026-10-26.md",
+      "folder": "ChatGPT",
+      "modified": "2026-11-01T16:58:52",
+      "tags": []
+    },
+    {
+      "title": "2026-10-27",
+      "path": "ChatGPT/Log/2026-10-27.md",
+      "folder": "ChatGPT",
+      "modified": "2026-11-01T16:52:40",
+      "tags": []
+    },
+    {
+      "title": "主肺動脈と肺動脈幹",
+      "path": "1.Anatomy/Ω_Anatomy_info/主肺動脈と肺動脈幹.md",
+      "folder": "1.Anatomy",
+      "modified": "2026-11-01T16:39:02",
+      "tags": []
+    },
+    {
+      "title": "尿路感染症",
+      "path": "2.Disease/ΩDisease_info/尿路感染症.md",
+      "folder": "2.Disease",
+      "modified": "2026-11-01T16:29:39",
+      "tags": []
+    },
+    {
+      "title": "Appearances & Expression",
+      "path": "ModMoC編集中/4.Findings/Appearances & Expression.md",
+      "folder": "ModMoC編集中",
+      "modified": "2026-11-01T16:29:16",
+      "tags": []
+    },
+    {
+      "title": "bridging septa",
+      "path": "1.Anatomy/Ω_Anatomy_info/bridging septa.md",
+      "folder": "1.Anatomy",
+      "modified": "2026-11-01T16:25:18",
+      "tags": []
+    },
+    {
+      "title": "急性虫垂炎",
+      "path": "2.Disease/ΩDisease_info/急性虫垂炎.md",
+      "folder": "2.Disease",
+      "modified": "2026-11-01T14:51:38",
+      "tags": []
+    },
+    {
+      "title": "穿孔性虫垂炎",
+      "path": "2.Disease/ΩDisease_info/穿孔性虫垂炎.md",
+      "folder": "2.Disease",
+      "modified": "2026-11-01T14:49:26",
+      "tags": []
+    },
+    {
+      "title": "2.Abdomen Disease List",
+      "path": "2.Disease/MoC_note/2.Abdomen Disease List.md",
+      "folder": "2.Disease",
+      "modified": "2026-11-01T14:46:21",
+      "tags": []
+    },
+    {
+      "title": "1.Head Disease List",
+      "path": "2.Disease/MoC_note/1.Head Disease List.md",
+      "folder": "2.Disease",
+      "modified": "2026-11-01T14:45:51",
+      "tags": []
+    },
+    {
+      "title": "ラクナ梗塞",
+      "path": "2.Disease/ΩDisease_info/ラクナ梗塞.md",
+      "folder": "2.Disease",
+      "modified": "2026-11-01T14:30:03",
+      "tags": []
+    },
+    {
+      "title": "4.腹部の疾患",
+      "path": "2.Disease/MoC_note/4.腹部の疾患.md",
+      "folder": "2.Disease",
+      "modified": "2026-11-01T13:38:53",
+      "tags": []
+    },
+    {
+      "title": "大脳縦裂",
+      "path": "1.Anatomy/Ω_Anatomy_info/大脳縦裂.md",
+      "folder": "1.Anatomy",
+      "modified": "2026-11-01T13:36:52",
+      "tags": []
+    },
+    {
+      "title": "中脳水道",
+      "path": "1.Anatomy/Ω_Anatomy_info/中脳水道.md",
+      "folder": "1.Anatomy",
+      "modified": "2026-11-01T13:35:07",
+      "tags": []
+    },
+    {
+      "title": "レンズ核",
+      "path": "1.Anatomy/Ω_Anatomy_info/レンズ核.md",
+      "folder": "1.Anatomy",
+      "modified": "2026-11-01T13:34:48",
+      "tags": []
+    },
+    {
+      "title": "交連線維",
+      "path": "1.Anatomy/Ω_Anatomy_info/交連線維.md",
+      "folder": "1.Anatomy",
+      "modified": "2026-11-01T13:33:24",
+      "tags": []
+    },
+    {
+      "title": "前交連",
+      "path": "1.Anatomy/Ω_Anatomy_info/前交連.md",
+      "folder": "1.Anatomy",
+      "modified": "2026-11-01T13:27:34",
+      "tags": []
+    },
     {
       "title": "憩室炎",
       "path": "ModInfo/憩室炎.md",
@@ -25,38 +158,10 @@
       "tags": []
     },
     {
-      "title": "主肺動脈と肺動脈幹",
-      "path": "ModInfo/主肺動脈と肺動脈幹.md",
-      "folder": "ModInfo",
-      "modified": "2026-10-27T18:04:15",
-      "tags": []
-    },
-    {
       "title": "3.胸部の解剖_MoC",
       "path": "1.Anatomy/MoC_notes/3.胸部の解剖_MoC.md",
       "folder": "1.Anatomy",
       "modified": "2026-10-27T18:03:21",
-      "tags": []
-    },
-    {
-      "title": "2026-10-27",
-      "path": "ChatGPT/Log/2026-10-27.md",
-      "folder": "ChatGPT",
-      "modified": "2026-10-27T14:49:10",
-      "tags": []
-    },
-    {
-      "title": "2026-10-26",
-      "path": "ChatGPT/Log/2026-10-26.md",
-      "folder": "ChatGPT",
-      "modified": "2026-10-26T18:59:21",
-      "tags": []
-    },
-    {
-      "title": "2026-10-23",
-      "path": "ChatGPT/Log/2026-10-23.md",
-      "folder": "ChatGPT",
-      "modified": "2026-10-23T23:36:21",
       "tags": []
     },
     {
@@ -1689,13 +1794,6 @@
       "tags": []
     },
     {
-      "title": "4.腹部の疾患",
-      "path": "2.Disease/MoC_note/4.腹部の疾患.md",
-      "folder": "2.Disease",
-      "modified": "2026-08-07T01:07:50",
-      "tags": []
-    },
-    {
       "title": "陳旧性結核",
       "path": "2.Disease/ΩDisease_info/陳旧性結核.md",
       "folder": "2.Disease",
@@ -3156,13 +3254,6 @@
       "tags": []
     },
     {
-      "title": "急性虫垂炎",
-      "path": "ModInfo/急性虫垂炎.md",
-      "folder": "ModInfo",
-      "modified": "2026-05-23T15:25:21",
-      "tags": []
-    },
-    {
       "title": "2026-05-15",
       "path": "ChatGPT/Archive/2026-05-15.md",
       "folder": "ChatGPT",
@@ -3342,13 +3433,6 @@
       "path": "0.Interpret Order/Chest Interpret Order.md",
       "folder": "0.Interpret Order",
       "modified": "2026-05-12T15:29:31",
-      "tags": []
-    },
-    {
-      "title": "ラクナ梗塞",
-      "path": "2.Disease/ΩDisease_info/ラクナ梗塞.md",
-      "folder": "2.Disease",
-      "modified": "2026-05-08T08:16:10",
       "tags": []
     },
     {
@@ -4555,13 +4639,6 @@
       "path": "ModInfo/硬膜嚢.md",
       "folder": "ModInfo",
       "modified": "2026-01-24T00:42:44",
-      "tags": []
-    },
-    {
-      "title": "Appearances & Expression",
-      "path": "ModMoC編集中/4.Findings/Appearances & Expression.md",
-      "folder": "ModMoC編集中",
-      "modified": "2026-01-23T23:57:21",
       "tags": []
     },
     {
@@ -11901,13 +11978,6 @@
       "tags": []
     },
     {
-      "title": "尿路感染症",
-      "path": "ModInfo/尿路感染症.md",
-      "folder": "ModInfo",
-      "modified": "2024-11-06T11:06:42",
-      "tags": []
-    },
-    {
       "title": "急性胆嚢炎",
       "path": "ModInfo/急性胆嚢炎.md",
       "folder": "ModInfo",
@@ -12430,48 +12500,6 @@
       "path": "ModInfo/腹膜炎の所見.md",
       "folder": "ModInfo",
       "modified": "2024-09-14T16:58:05",
-      "tags": []
-    },
-    {
-      "title": "穿孔性虫垂炎",
-      "path": "ModInfo/穿孔性虫垂炎.md",
-      "folder": "ModInfo",
-      "modified": "2024-09-14T16:52:12",
-      "tags": []
-    },
-    {
-      "title": "大脳縦裂",
-      "path": "ModInfo/大脳縦裂.md",
-      "folder": "ModInfo",
-      "modified": "2024-09-14T15:49:06",
-      "tags": []
-    },
-    {
-      "title": "中脳水道",
-      "path": "ModInfo/中脳水道.md",
-      "folder": "ModInfo",
-      "modified": "2024-09-14T15:27:10",
-      "tags": []
-    },
-    {
-      "title": "レンズ核",
-      "path": "ModInfo/レンズ核.md",
-      "folder": "ModInfo",
-      "modified": "2024-09-11T16:53:55",
-      "tags": []
-    },
-    {
-      "title": "交連線維",
-      "path": "ModInfo/交連線維.md",
-      "folder": "ModInfo",
-      "modified": "2024-09-11T16:45:01",
-      "tags": []
-    },
-    {
-      "title": "前交連",
-      "path": "ModInfo/前交連.md",
-      "folder": "ModInfo",
-      "modified": "2024-09-11T16:42:53",
       "tags": []
     },
     {
