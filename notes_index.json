@@ -1,8 +1,57 @@
 {
-  "generated": "2026-11-03T20:57:17",
+  "generated": "2026-11-05T20:00:01",
   "vault": "Med",
-  "count": 1800,
+  "count": 1804,
   "notes": [
+    {
+      "title": "2026-11-05",
+      "path": "ChatGPT/Log/2026-11-05.md",
+      "folder": "ChatGPT",
+      "modified": "2026-11-05T18:14:39",
+      "tags": []
+    },
+    {
+      "title": "鞍棘_tkg",
+      "path": "5.ModMaterial/TKG/鞍棘_tkg.md",
+      "folder": "5.ModMaterial",
+      "modified": "2026-11-04T17:45:54",
+      "tags": []
+    },
+    {
+      "title": "電子タバコによる外因性リポイド肺炎_tkg",
+      "path": "5.ModMaterial/TKG/電子タバコによる外因性リポイド肺炎_tkg.md",
+      "folder": "5.ModMaterial",
+      "modified": "2026-11-04T17:35:52",
+      "tags": []
+    },
+    {
+      "title": "2026-08-10",
+      "path": "4.Daily/Daily_DB/2026-08-10.md",
+      "folder": "4.Daily",
+      "modified": "2026-11-04T17:27:35",
+      "tags": []
+    },
+    {
+      "title": "膵臓の部位",
+      "path": "ModInfo/膵臓の部位.md",
+      "folder": "ModInfo",
+      "modified": "2026-11-04T17:23:40",
+      "tags": []
+    },
+    {
+      "title": "副腎過形成",
+      "path": "2.Disease/ΩDisease_info/副腎過形成.md",
+      "folder": "2.Disease",
+      "modified": "2026-11-04T17:15:43",
+      "tags": []
+    },
+    {
+      "title": "4.腹部の疾患",
+      "path": "2.Disease/MoC_note/4.腹部の疾患.md",
+      "folder": "2.Disease",
+      "modified": "2026-11-04T17:02:06",
+      "tags": []
+    },
     {
       "title": "2026-11-02",
       "path": "ChatGPT/Log/2026-11-02.md",
@@ -92,13 +141,6 @@
       "path": "2.Disease/ΩDisease_info/ラクナ梗塞.md",
       "folder": "2.Disease",
       "modified": "2026-11-01T14:30:03",
-      "tags": []
-    },
-    {
-      "title": "4.腹部の疾患",
-      "path": "2.Disease/MoC_note/4.腹部の疾患.md",
-      "folder": "2.Disease",
-      "modified": "2026-11-01T13:38:53",
       "tags": []
     },
     {
@@ -1812,13 +1854,6 @@
       "path": "ModInfo/指のサイズ感.md",
       "folder": "ModInfo",
       "modified": "2026-08-04T13:47:52",
-      "tags": []
-    },
-    {
-      "title": "2026-08-02",
-      "path": "4.Daily/Daily_DB/2026-08-02.md",
-      "folder": "4.Daily",
-      "modified": "2026-08-02T18:05:07",
       "tags": []
     },
     {
@@ -3928,13 +3963,6 @@
       "path": "ChatGPT/Archive/2026-04-06.md",
       "folder": "ChatGPT",
       "modified": "2026-04-08T10:41:59",
-      "tags": []
-    },
-    {
-      "title": "膵臓の部位",
-      "path": "ModInfo/膵臓の部位.md",
-      "folder": "ModInfo",
-      "modified": "2026-04-07T01:53:33",
       "tags": []
     },
     {
@@ -12694,16 +12722,34 @@
   ],
   "lessons_cautions": [
     {
-      "date": "2026-08-02",
+      "date": "2026-08-10",
       "type": "Lessons",
-      "text": "",
-      "path": "4.Daily/Daily_DB/2026-08-02.md"
+      "text": "表現_軟部組織の肥厚、気管孔",
+      "path": "4.Daily/Daily_DB/2026-08-10.md"
     },
     {
-      "date": "2026-08-02",
+      "date": "2026-08-10",
+      "type": "Lessons",
+      "text": "蜂窩織炎と蜂巣炎は同義語。診断はできない",
+      "path": "4.Daily/Daily_DB/2026-08-10.md"
+    },
+    {
+      "date": "2026-08-10",
+      "type": "Lessons",
+      "text": "副腎が形態保ってでかくなってたら過形成。過形成にもcushingとAIMAHあり",
+      "path": "4.Daily/Daily_DB/2026-08-10.md"
+    },
+    {
+      "date": "2026-08-10",
+      "type": "Lessons",
+      "text": "腸骨筋と大腰筋。腸骨筋は腸骨にべったり。大腰筋はより内側まるっこく",
+      "path": "4.Daily/Daily_DB/2026-08-10.md"
+    },
+    {
+      "date": "2026-08-10",
       "type": "Cautions",
       "text": "",
-      "path": "4.Daily/Daily_DB/2026-08-02.md"
+      "path": "4.Daily/Daily_DB/2026-08-10.md"
     },
     {
       "date": "2026-07-18",
