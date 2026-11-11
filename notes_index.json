@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T10:41:13",
+  "generated": "2026-11-11T12:00:02",
   "vault": "Med",
   "count": 1807,
   "notes": [
@@ -1581,7 +1581,9 @@
       "path": "5.ModMaterial/Navigating/CTchest/Case34_DIP_navi.md",
       "folder": "5.ModMaterial",
       "modified": "2026-08-16T12:02:51",
-      "tags": []
+      "tags": [
+        "navigating"
+      ]
     },
     {
       "title": "行を<>で囲って_shiftcomB",
@@ -2662,7 +2664,9 @@
       "path": "5.ModMaterial/Navigating/CTchest/Case26_Classic lung cancer_navi.md",
       "folder": "5.ModMaterial",
       "modified": "2026-06-27T19:34:30",
-      "tags": []
+      "tags": [
+        "navigating"
+      ]
     },
     {
       "title": "肺腺癌のスペクトラム_sdi",
@@ -2901,7 +2905,9 @@
       "path": "5.ModMaterial/Navigating/CTchest/Case4_PE_navi.md",
       "folder": "5.ModMaterial",
       "modified": "2026-06-13T19:37:38",
-      "tags": []
+      "tags": [
+        "navigating"
+      ]
     },
     {
       "title": "Case3_PE_navi",
@@ -3262,7 +3268,9 @@
       "path": "5.ModMaterial/Navigating/CTchest/Case15_Pulmonary Edema_navi.md",
       "folder": "5.ModMaterial",
       "modified": "2026-05-30T14:34:53",
-      "tags": []
+      "tags": [
+        "navigating"
+      ]
     },
     {
       "title": "Xp Chest Interpret Order",
@@ -3890,7 +3898,9 @@
       "path": "5.ModMaterial/Navigating/CTchest/Case11_Consolidation-infection_navi 1.md",
       "folder": "5.ModMaterial",
       "modified": "2026-04-22T19:02:27",
-      "tags": []
+      "tags": [
+        "navigating"
+      ]
     },
     {
       "title": "門脈_schema",
@@ -12732,6 +12742,36 @@
     }
   ],
   "lessons_cautions": [
+    {
+      "date": "2026-08-10",
+      "type": "Lessons",
+      "text": "表現_軟部組織の肥厚、気管孔",
+      "path": "4.Daily/Daily_DB/2026-08-10.md"
+    },
+    {
+      "date": "2026-08-10",
+      "type": "Lessons",
+      "text": "蜂窩織炎と蜂巣炎は同義語。診断はできない",
+      "path": "4.Daily/Daily_DB/2026-08-10.md"
+    },
+    {
+      "date": "2026-08-10",
+      "type": "Lessons",
+      "text": "副腎が形態保ってでかくなってたら過形成。過形成にもcushingとAIMAHあり",
+      "path": "4.Daily/Daily_DB/2026-08-10.md"
+    },
+    {
+      "date": "2026-08-10",
+      "type": "Lessons",
+      "text": "腸骨筋と大腰筋。腸骨筋は腸骨にべったり。大腰筋はより内側まるっこく",
+      "path": "4.Daily/Daily_DB/2026-08-10.md"
+    },
+    {
+      "date": "2026-08-10",
+      "type": "Cautions",
+      "text": "",
+      "path": "4.Daily/Daily_DB/2026-08-10.md"
+    },
     {
       "date": "2026-07-18",
       "type": "Lessons",
