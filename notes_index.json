@@ -1,8 +1,29 @@
 {
-  "generated": "2026-11-11T12:00:02",
+  "generated": "2026-11-12T19:04:05",
   "vault": "Med",
-  "count": 1807,
+  "count": 1809,
   "notes": [
+    {
+      "title": "OCR_results",
+      "path": "OCR_results.md",
+      "folder": "",
+      "modified": "2026-11-12T18:16:47",
+      "tags": []
+    },
+    {
+      "title": "Screenshots",
+      "path": "Screenshots.md",
+      "folder": "",
+      "modified": "2026-11-12T18:16:47",
+      "tags": []
+    },
+    {
+      "title": "2026-11-12",
+      "path": "ChatGPT/Log/2026-11-12.md",
+      "folder": "ChatGPT",
+      "modified": "2026-11-12T14:18:42",
+      "tags": []
+    },
     {
       "title": "2026-11-11",
       "path": "ChatGPT/Log/2026-11-11.md",
@@ -1861,13 +1882,6 @@
       "path": "2.Disease/ΩDisease_info/陳旧性結核.md",
       "folder": "2.Disease",
       "modified": "2026-08-07T01:00:14",
-      "tags": []
-    },
-    {
-      "title": "Screenshots",
-      "path": "Screenshots.md",
-      "folder": "",
-      "modified": "2026-08-07T00:52:00",
       "tags": []
     },
     {
