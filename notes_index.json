@@ -1,8 +1,29 @@
 {
-  "generated": "2026-11-27T00:00:01",
+  "generated": "2026-11-27T02:55:03",
   "vault": "Med",
   "count": 1821,
   "notes": [
+    {
+      "title": "3.Chest Disease List_MoC",
+      "path": "2.Disease/MoC_note/3.Chest Disease List_MoC.md",
+      "folder": "2.Disease",
+      "modified": "2026-11-27T01:44:26",
+      "tags": []
+    },
+    {
+      "title": "LIP",
+      "path": "ModInfo/LIP.md",
+      "folder": "ModInfo",
+      "modified": "2026-11-27T01:41:59",
+      "tags": []
+    },
+    {
+      "title": "AEF",
+      "path": "ModInfo/AEF.md",
+      "folder": "ModInfo",
+      "modified": "2026-11-27T01:40:49",
+      "tags": []
+    },
     {
       "title": "2026-11-26",
       "path": "ChatGPT/Log/2026-11-26.md",
@@ -1105,13 +1126,6 @@
       "tags": []
     },
     {
-      "title": "3.Chest Disease List_MoC",
-      "path": "2.Disease/MoC_note/3.Chest Disease List_MoC.md",
-      "folder": "2.Disease",
-      "modified": "2026-09-06T18:57:52",
-      "tags": []
-    },
-    {
       "title": "胸膜、葉間裂",
       "path": "1.Anatomy/Ω_Anatomy_info/胸膜、葉間裂.md",
       "folder": "1.Anatomy",
@@ -1175,8 +1189,8 @@
       "tags": []
     },
     {
-      "title": "OP,COP（器質化肺炎）",
-      "path": "ModInfo/OP,COP（器質化肺炎）.md",
+      "title": "OP,COP",
+      "path": "ModInfo/OP,COP.md",
       "folder": "ModInfo",
       "modified": "2026-09-06T16:26:17",
       "tags": []
@@ -8219,8 +8233,8 @@
       "tags": []
     },
     {
-      "title": "ILA（Interstitial Lung Abnormalities, 軽微な間質性陰影）",
-      "path": "ModInfo/ILA（Interstitial Lung Abnormalities, 軽微な間質性陰影）.md",
+      "title": "ILA",
+      "path": "ModInfo/ILA.md",
       "folder": "ModInfo",
       "modified": "2025-07-26T14:21:25",
       "tags": []
@@ -9486,13 +9500,6 @@
       "tags": []
     },
     {
-      "title": "airspace enlargement with fibrosis（AEF）",
-      "path": "ModInfo/airspace enlargement with fibrosis（AEF）.md",
-      "folder": "ModInfo",
-      "modified": "2025-02-22T21:46:13",
-      "tags": []
-    },
-    {
       "title": "肺：びまん性病変：多発低吸収域を主体とするびまん性肺疾患_CI",
       "path": "ModInfo/肺：びまん性病変：多発低吸収域を主体とするびまん性肺疾患_CI.md",
       "folder": "ModInfo",
@@ -9504,13 +9511,6 @@
       "path": "ModInfo/Birt–Hogg–Dubé（BHD）症候群.md",
       "folder": "ModInfo",
       "modified": "2025-02-22T21:31:23",
-      "tags": []
-    },
-    {
-      "title": "LIP,リンパ球間質性肺炎",
-      "path": "ModInfo/LIP,リンパ球間質性肺炎.md",
-      "folder": "ModInfo",
-      "modified": "2025-02-22T21:28:52",
       "tags": []
     },
     {
