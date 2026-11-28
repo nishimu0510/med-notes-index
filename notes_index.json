@@ -1,8 +1,15 @@
 {
-  "generated": "2026-11-28T05:45:03",
+  "generated": "2026-11-28T12:51:37",
   "vault": "Med",
-  "count": 1824,
+  "count": 1825,
   "notes": [
+    {
+      "title": "2026-11-28",
+      "path": "ChatGPT/Log/2026-11-28.md",
+      "folder": "ChatGPT",
+      "modified": "2026-11-28T12:47:21",
+      "tags": []
+    },
     {
       "title": "肺放線菌症",
       "path": "ModInfo/肺放線菌症.md",
