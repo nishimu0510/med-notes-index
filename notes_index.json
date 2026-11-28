@@ -1,20 +1,57 @@
 {
-  "generated": "2026-11-28T16:00:03",
+  "generated": "2026-11-28T20:00:02",
   "vault": "Med",
-  "count": 1825,
+  "count": 1828,
   "notes": [
     {
-      "title": "Head Interpret Order",
-      "path": "0.Interpret Order/Head Interpret Order.md",
-      "folder": "0.Interpret Order",
-      "modified": "2026-11-28T15:56:50",
+      "title": "慢性副鼻腔炎_sdi",
+      "path": "3.Reading/3.Reading_info/慢性副鼻腔炎_sdi.md",
+      "folder": "3.Reading",
+      "modified": "2026-11-28T17:45:22",
+      "tags": []
+    },
+    {
+      "title": "2026-11-28 1. 前分水嶺とは a3d6b1fe",
+      "path": "ChatGPT/2026-11-28 1. 前分水嶺とは a3d6b1fe.md",
+      "folder": "ChatGPT",
+      "modified": "2026-11-28T17:41:01",
+      "tags": []
+    },
+    {
+      "title": "2.頸部 app＆temp",
+      "path": "3.Reading/2.Speciality/2.頸部 app＆temp.md",
+      "folder": "3.Reading",
+      "modified": "2026-11-28T17:36:53",
       "tags": []
     },
     {
       "title": "2026-08-13",
       "path": "4.Daily/Daily_DB/2026-08-13.md",
       "folder": "4.Daily",
-      "modified": "2026-11-28T15:25:21",
+      "modified": "2026-11-28T17:06:14",
+      "tags": []
+    },
+    {
+      "title": "前分水嶺",
+      "path": "Clippings/前分水嶺.md",
+      "folder": "Clippings",
+      "modified": "2026-11-28T17:03:41",
+      "tags": [
+        "\"clippings\""
+      ]
+    },
+    {
+      "title": "Chest-Abdomen-Pelvis Interpret Order",
+      "path": "0.Interpret Order/Chest-Abdomen-Pelvis Interpret Order.md",
+      "folder": "0.Interpret Order",
+      "modified": "2026-11-28T16:19:26",
+      "tags": []
+    },
+    {
+      "title": "Head Interpret Order",
+      "path": "0.Interpret Order/Head Interpret Order.md",
+      "folder": "0.Interpret Order",
+      "modified": "2026-11-28T15:56:50",
       "tags": []
     },
     {
@@ -829,13 +866,6 @@
       "path": "ModInfo/甲状腺腫の鑑別_dd.md",
       "folder": "ModInfo",
       "modified": "2026-10-08T13:54:04",
-      "tags": []
-    },
-    {
-      "title": "2.頸部 app＆temp",
-      "path": "3.Reading/2.Speciality/2.頸部 app＆temp.md",
-      "folder": "3.Reading",
-      "modified": "2026-10-08T13:53:03",
       "tags": []
     },
     {
@@ -3622,13 +3652,6 @@
       "path": "3.Reading/3.Reading_info/前立腺癌_app.md",
       "folder": "3.Reading",
       "modified": "2026-05-14T19:43:24",
-      "tags": []
-    },
-    {
-      "title": "Chest-Abdomen-Pelvis Interpret Order",
-      "path": "0.Interpret Order/Chest-Abdomen-Pelvis Interpret Order.md",
-      "folder": "0.Interpret Order",
-      "modified": "2026-05-12T15:29:42",
       "tags": []
     },
     {
@@ -12876,8 +12899,32 @@
     },
     {
       "date": "2026-08-13",
+      "type": "Lessons",
+      "text": "乳頭体の下の血管⇒脳底動脈",
+      "path": "4.Daily/Daily_DB/2026-08-13.md"
+    },
+    {
+      "date": "2026-08-13",
+      "type": "Lessons",
+      "text": "T2 blade tra fs -fbとtse tra P ACEの違い⇒ 単純にFSかどうかか。ミレーナの言い方⇒子宮内システム。",
+      "path": "4.Daily/Daily_DB/2026-08-13.md"
+    },
+    {
+      "date": "2026-08-13",
       "type": "Cautions",
-      "text": "",
+      "text": "下大静脈の評価忘れがち",
+      "path": "4.Daily/Daily_DB/2026-08-13.md"
+    },
+    {
+      "date": "2026-08-13",
+      "type": "Cautions",
+      "text": "診断の書き方...脳梗塞後⇒脳梗塞フォローアップ",
+      "path": "4.Daily/Daily_DB/2026-08-13.md"
+    },
+    {
+      "date": "2026-08-13",
+      "type": "Lessons",
+      "text": "前分水嶺とは?⇒ MCAとACAの境界",
       "path": "4.Daily/Daily_DB/2026-08-13.md"
     },
     {
